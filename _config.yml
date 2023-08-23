@@ -8,7 +8,7 @@ middle_name:
 last_name: 
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+  The 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
