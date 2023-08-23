@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.tweet-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+Gemfile.lock
+docker-compose.yml
+docker-local.yml
+Dockerfile
