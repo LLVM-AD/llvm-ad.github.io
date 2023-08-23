@@ -1034,3 +1034,13 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.header-background .img {
+  background-image: url("../img/driving.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  height: 15em;
+  margin-bottom: 2em;
+  margin-top: -2.7em;
+}
