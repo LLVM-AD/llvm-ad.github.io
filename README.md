@@ -1,1 +1,1 @@
-# Official Website of LLVM-AD Workshop at WACV 2023
+https://llvm-ad.github.io/
