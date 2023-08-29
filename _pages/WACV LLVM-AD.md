@@ -50,5 +50,7 @@ We accept submissions through our CMT. Submissions can be from any subfield of m
 - Yunsheng Ma (Purdue)
 - Can Cui (Purdue)
 - Wenqian Ye (UVA)
+- Zhipeng Cao (Tencent)
+- Shawn Mei (Tencent)
 - Ziran Wang (Purdue)
 
