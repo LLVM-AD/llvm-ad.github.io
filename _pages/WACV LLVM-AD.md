@@ -30,12 +30,11 @@ The 1st [WACV](https://wacv2023.thecvf.com/) Workshop on **Large Language and Vi
 ----------
 ### Important Dates
 
-- Paper submission deadline: 11th October 2023
-- Author notification: 9th November 2023
-- Camera-ready papers due: 19th November 2023
+- Paper submission deadline: October 11th, 2023
+- Author notification: November 9th, 2023
+- Camera-ready papers due: November 19th, 2023
   
-<!-- ---------- -->
-<!-- ## Keynote Speakers -->
+
 
 ----------
 ### Submission Guidelines
@@ -52,5 +51,11 @@ We accept submissions through our CMT. Submissions can be from any subfield of m
 - Wenqian Ye (UVA)
 - Zhipeng Cao (Tencent)
 - Shawn Mei (Tencent)
+<!-- - Ziran Wang (Purdue) -->
+
+
+----------
+### Program Committee
+- Yang Zhou (NYU)
 - Ziran Wang (Purdue)
 

@@ -11,12 +11,35 @@ nav_order: 2
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-The first LLVM-AD workshop invites submissions that contribute to the progression of LLVM within the domain of autonomous driving. We are particularly interested in bridging the gap between the rich image and language data found within the context of autonomous driving. Our primary areas of interest are: a). Traffic Scene Understanding enhanced by LLVMs and 
+The LLVM-AD committee invites papers that will undergo the standard peer review process and accepted papers will be published in IEEE Xplore as WACV 2024 Workshop Proceedings. Program topics include: 
+
+- Advanced Large Language Models in Autonomous Vehicles 
+
+- Vision-Language Fusion Models 
+
+- Advanced Vision Models in Autonomous Vehicles 
+
+- Semantics and Scene Understanding for Autonomous Driving 
+
+- Human-AI Interaction and Communication 
+
+- Domain Adaptation and Transfer Learning in Autonomous Driving 
+
+- Real-time Processing and Latency Reduction for Autonomous Vehicles 
+
+- Safety and Reliability for Large Language Models in Autonomous Driving 
+
+- Interpretable AI for Autonomous Driving 
+
+- Natural Language Understanding for Driving Context
+  
+<!-- The first LLVM-AD workshop invites submissions that contribute to the progression of LLVM within the domain of autonomous driving. We are particularly interested in bridging the gap between the rich image and language data found within the context of autonomous driving. Our primary areas of interest are: a). Traffic Scene Understanding enhanced by LLVMs and 
 b). Human-Vehicle Interactions driven by LLVMs. The detail will be released soon.
 
 
-If accepted, the workshop papers will be published in IEEE Xplore as WACV 2024 Workshop Proceedings and will be indexed separately from the main conference proceedings. The papers submitted to the workshop should follow the same formatting requirements as the main conference.
+If accepted, the workshop papers will be published in IEEE Xplore as WACV 2024 Workshop Proceedings and will be indexed separately from the main conference proceedings. The papers submitted to the workshop should follow the same formatting requirements as the main conference. -->
 
 **Long Papers** Manuscripts of 6 to 8 pages. Submissions are expected to follow the same guidelines as those for WACV's main conference papers. The best paper elected by the committee will have the opportunity to receive outstanding paper award and \$300 in recognition of their outstanding contributions.
 
 **Demo papers** Manuscripts of 2 pages. Demo papers should also include 1 additional page for references, maintaining the same formatting and guidelines. The main objective of these demo papers within the workshop is to foster the exchange of novel concepts and spotlight the practical utility of LLMs in the context of autonomous driving. Accepted demo papers will be included into the workshop proceedings. Authors of the most exceptional demo papers will have chance to be invited to Tencent Map T Lab for an official summer internship.
+
