@@ -45,11 +45,11 @@ We accept submissions through our CMT. Submissions can be from any subfield of m
 
 - Chao Zheng (Tencent)
 - Kun Tang (Tencent)
+- Zhipeng Cao (Tencent)
 - Xu Cao (UIUC)
 - Yunsheng Ma (Purdue)
 - Can Cui (Purdue)
 - Wenqian Ye (UVA)
-- Zhipeng Cao (Tencent)
 - Shawn Mei (Tencent)
 <!-- - Ziran Wang (Purdue) -->
 
@@ -58,4 +58,8 @@ We accept submissions through our CMT. Submissions can be from any subfield of m
 ### Program Committee
 - Yang Zhou (NYU)
 - Ziran Wang (Purdue)
+- Kaizhao Liang (SambaNova Systems)
+- Tianren Gao (SambaNova Systems)
+- Kuei-Da Liao (SambaNova Systems)
+- Shan Bao (University of Michigan, Transportation Research Institute)
 
