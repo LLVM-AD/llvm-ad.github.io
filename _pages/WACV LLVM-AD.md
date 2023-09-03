@@ -46,7 +46,7 @@ We accept submissions through our CMT. Submissions can be from any subfield of m
 - Chao Zheng (Tencent)
 - Kun Tang (Tencent)
 - Zhipeng Cao (Tencent)
-- Xu Cao (UIUC)
+- Xu Cao (PediaMed AI)
 - Yunsheng Ma (Purdue)
 - Can Cui (Purdue)
 - Wenqian Ye (UVA)
