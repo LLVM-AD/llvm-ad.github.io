@@ -93,6 +93,8 @@ TBD
 - Tianren Gao (SambaNova Systems)
 - Kuei-Da Liao (SambaNova Systems)
 - Shan Bao (University of Michigan, Transportation Research Institute)
+- Xuhui Kang (UVA)
+- Sean Sung-Wook Lee (UVA)
 
 
 
