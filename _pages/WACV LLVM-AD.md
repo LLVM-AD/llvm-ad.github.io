@@ -41,7 +41,39 @@ The 1st [WACV](https://wacv2023.thecvf.com/) Workshop on **Large Language and Vi
 We accept submissions through our CMT. Submissions can be from any subfield of machine learning or related fields of interest subject to the workshop theme. The main goal is to exploring the challenges and immense potential to unlock new horizons in the next-generation landscape of autonomous driving using LLVMs.
 
 ----------
+### Invited Speakers
+
+TBD
+
+----------
 ### Organizers
+
+<!-- <table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=6A1yEFMAAAAJ&citpid=1" height="170"></td>
+    <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153.jpg" height="170"></td>
+    <td style="text-align:center"><img src="https://images.ctfassets.net/8wprhhvnpfc0/6hLLZq4X1hVzRGwwrIQOvc/9791f266fcb65b02c3aec680de7dd023/Deborah_Raji_headshot.jpg" height="170"></td>
+    <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=oXWRBrwAAAAJ&citpid=25" height="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="http://tensorlab.cms.caltech.edu/users/anima/">Chao Zheng</a> <br> Tencent</td>
+    <td style="text-align:center"><a href="https://www.is.mpg.de/~bs">Kun Tang</a> <br>Tencent</td>
+    <td style="text-align:center"><a href="https://ainowinstitute.org/people/deborah-raji.html">Zhipeng Cao</a> <br> Tencent</td>
+    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Xu Cao</a> <br> PediaMed AI </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/yunsheng.jpg" height="170"></td>
+    <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="170"></td>
+    <td style="text-align:center"><img src="https://wenqian-ye.github.io/images/selfie.jpeg" height="170"></td>
+    <td style="text-align:center"><img src="https://dyogatama.github.io/index_files/dy_2.jpg" height="170"></td>
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="https://pascale.home.ece.ust.hk/">Yunsheng Ma</a> <br> Purdue</td>
+    <td style="text-align:center"><a href="https://www.peterhenderson.co/">Can Cui</a> <br> Purdue</td>
+    <td style="text-align:center"><a href="http://www.m-mitchell.com/">Wenqian Ye</a> <br> UVA</td>
+    <td style="text-align:center"><a href="https://dyogatama.github.io/">Shawn Mei</a> <br> Tencent</td>
+  </tr>
+</table> -->
 
 - Chao Zheng (Tencent)
 - Kun Tang (Tencent)
@@ -51,15 +83,16 @@ We accept submissions through our CMT. Submissions can be from any subfield of m
 - Can Cui (Purdue)
 - Wenqian Ye (UVA)
 - Shawn Mei (Tencent)
-<!-- - Ziran Wang (Purdue) -->
 
 
 ----------
 ### Program Committee
-- Yang Zhou (NYU)
 - Ziran Wang (Purdue)
+- Yang Zhou (NYU)
 - Kaizhao Liang (SambaNova Systems)
 - Tianren Gao (SambaNova Systems)
 - Kuei-Da Liao (SambaNova Systems)
 - Shan Bao (University of Michigan, Transportation Research Institute)
+
+
 
