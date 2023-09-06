@@ -82,12 +82,12 @@ TBD
 - Yunsheng Ma (Purdue)
 - Can Cui (Purdue)
 - Wenqian Ye (UVA)
+- Ziran Wang (Purdue)
 - Shawn Mei (Tencent)
 
 
 ----------
 ### Program Committee
-- Ziran Wang (Purdue)
 - Yang Zhou (NYU)
 - Kaizhao Liang (SambaNova Systems)
 - Tianren Gao (SambaNova Systems)
