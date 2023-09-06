@@ -48,34 +48,40 @@ TBD
 ----------
 ### Organizers
 
-<!-- <table style="width:75%">
+<table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=6A1yEFMAAAAJ&citpid=1" height="170"></td>
-    <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153.jpg" height="170"></td>
-    <td style="text-align:center"><img src="https://images.ctfassets.net/8wprhhvnpfc0/6hLLZq4X1hVzRGwwrIQOvc/9791f266fcb65b02c3aec680de7dd023/Deborah_Raji_headshot.jpg" height="170"></td>
+    <td style="text-align:center"><img src="" height="170"></td>
+    <td style="text-align:center"><img src="" height="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="">Chao Zheng</a> <br> Tencent</td>
+    <td style="text-align:center"><a href="">Kun Tang</a> <br>Tencent</td>
+    <td style="text-align:center"><a href="">Zhipeng Cao</a> <br> Tencent</td>
+  </tr>
+  <tr>
     <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=oXWRBrwAAAAJ&citpid=25" height="170"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="http://tensorlab.cms.caltech.edu/users/anima/">Chao Zheng</a> <br> Tencent</td>
-    <td style="text-align:center"><a href="https://www.is.mpg.de/~bs">Kun Tang</a> <br>Tencent</td>
-    <td style="text-align:center"><a href="https://ainowinstitute.org/people/deborah-raji.html">Zhipeng Cao</a> <br> Tencent</td>
-    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Xu Cao</a> <br> PediaMed AI </td>
-  </tr>
-  <tr>
     <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/yunsheng.jpg" height="170"></td>
     <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="170"></td>
-    <td style="text-align:center"><img src="https://wenqian-ye.github.io/images/selfie.jpeg" height="170"></td>
-    <td style="text-align:center"><img src="https://dyogatama.github.io/index_files/dy_2.jpg" height="170"></td>
   </tr>
   <tr>
-  <td style="text-align:center"><a href="https://pascale.home.ece.ust.hk/">Yunsheng Ma</a> <br> Purdue</td>
-    <td style="text-align:center"><a href="https://www.peterhenderson.co/">Can Cui</a> <br> Purdue</td>
-    <td style="text-align:center"><a href="http://www.m-mitchell.com/">Wenqian Ye</a> <br> UVA</td>
-    <td style="text-align:center"><a href="https://dyogatama.github.io/">Shawn Mei</a> <br> Tencent</td>
+  <td style="text-align:center"><a href="https://www.irohxucao.com/">Xu Cao</a> <br> PediaMed AI</td>
+    <td style="text-align:center"><a href="https://maysonma.github.io/">Yunsheng Ma</a> <br> Purdue</td>
+    <td style="text-align:center"><a href="https://cancui19.github.io/">Can Cui</a> <br> Purdue</td>
   </tr>
-</table> -->
+  <tr>
+    <td style="text-align:center"><img src="https://wenqian-ye.github.io/images/selfie.jpeg" height="170"></td>
+    <td style="text-align:center"><img src="https://ziranw.github.io/Attachments/Ziran_Headshot.jpg" height="170"></td>
+    <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Shawn_Mei.png" height="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://wenqian-ye.github.io/">Wenqian Ye</a> <br> UVA</td>
+    <td style="text-align:center"><a href="ziranw.github.io">Ziran Wang</a> <br>Purdue</td>
+    <td style="text-align:center"><a href="">Shawn Mei</a> <br> Tencent</td>
+  </tr>
+</table>
 
-- Chao Zheng (Tencent)
+<!-- - Chao Zheng (Tencent)
 - Kun Tang (Tencent)
 - Zhipeng Cao (Tencent)
 - Xu Cao (PediaMed AI)
@@ -83,7 +89,7 @@ TBD
 - Can Cui (Purdue)
 - Wenqian Ye (UVA)
 - Ziran Wang (Purdue)
-- Shawn Mei (Tencent)
+- Shawn Mei (Tencent) -->
 
 
 ----------
