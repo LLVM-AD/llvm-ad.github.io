@@ -31,7 +31,7 @@ The 1st [WACV](https://wacv2023.thecvf.com/) Workshop on **Large Language and Vi
 ### Important Dates
 
 - Paper submission deadline: October 23th, 2023
-- Author notification: November 9th, 2023
+- Author notification: November 13th, 2023
 - Camera-ready papers due: November 19th, 2023
   
 
