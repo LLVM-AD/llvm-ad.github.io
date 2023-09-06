@@ -79,6 +79,12 @@ TBD
     <td style="text-align:center"><a href="ziranw.github.io">Ziran Wang</a> <br>Purdue</td>
     <td style="text-align:center"><a href="">Shawn Mei</a> <br> Tencent</td>
   </tr>
+  <tr>
+    <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Tong_Zhou.jpg" height="200"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="">Tong Zhou</a> <br> Tencent</td>
+  </tr>
 </table>
 
 <!-- - Chao Zheng (Tencent)
