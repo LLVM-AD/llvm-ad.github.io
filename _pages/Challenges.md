@@ -10,7 +10,7 @@ nav_order: 3
 
 ### Two Open-Source Datasets 
 
-Two open-sourced datasets will be provided. The first centers on grasping traffic language from HD maps to understand traffic scenarios via LLMs. The second involves categorizing text-based driver commands into multiple categories for human-vehicle language comprehension. While the workshop recommends using provided datasets, it's **not mandatory**. Both datasets will be released on **Sep. 7th**. 
+Two open-source datasets are provided for this workshop. The first dataset focuses on extracting traffic language from HD maps to aid in traffic scenario comprehension through LLMs. The second dataset aims to categorize textbased driver commands to improve human-vehicle language understanding. While using the datasets is recommended, it is **not mandatory** for participation. Both datasets will be released on **Sep. 15th**. 
 
 #### Dataset 1
 TBD
