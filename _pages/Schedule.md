@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publication/
+permalink: /schedule/
 title: Schedule
 description: 
 nav: true

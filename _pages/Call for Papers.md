@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /call_for_papers/
 title: Call for Papers
 description: 
 nav: true

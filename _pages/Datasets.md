@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /datasets/
 title: Datasets
 description: 
 nav: true
