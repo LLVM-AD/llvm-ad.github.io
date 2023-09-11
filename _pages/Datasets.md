@@ -21,7 +21,7 @@ TBD -->
 Two open-source datasets are provided for this workshop. The first dataset focuses on extracting traffic language from
 HD maps to aid in traffic scenario comprehension through LLVMs. The second dataset aims to categorize textbased driver
 commands to improve human-vehicle language understanding. While using the datasets is recommended, it is
-**not mandatory** for participation. Both datasets will be released on **Sep. 15th**.
+**not mandatory** for participation. The MAPLM dataset will be released on **Sep. 15th**.
 
 ### Dataset 1: MAPLM
 
@@ -86,5 +86,5 @@ provided in the CSV file in the data download link.
 
 We use two accuracy metrics for evaluation:
 
-1. Command-level accuracy: The command is considered correct if all 8 answers are correct.
-2. Question-level accuracy: The question is considered correct if the answer is correct.
+1. **Command-level accuracy**: A command is considered correctly understood if all eight answers are correct.
+2. **Question-level accuracy**: Evaluation at the individual question level.

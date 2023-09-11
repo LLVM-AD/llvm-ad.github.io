@@ -2,7 +2,7 @@
 layout: about
 title: LLVM-AD
 permalink: /
-subtitle: 
+subtitle:
 
 # profile:
 #   align: 
@@ -25,27 +25,38 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 <!-- ### About LLVM-AD -->
-The 1st [WACV](https://wacv2023.thecvf.com/) Workshop on **Large Language and Vision Models for Autonomous Driving (LLVM-AD)** seeks to bring together academia and industry professionals in a collaborative exploration of applying large language and vision models to autonomous driving. Through a half-day in-person event, the workshop will showcase regular and demo paper presentations and invited talks from famous researchers in academia and industry. Additionally, LLVM-AD will launch two open-source real-world traffic language understanding datasets, catalyzing practical advancements. The workshop will host two challenges based on this dataset to assess the capabilities of language and computer vision models in addressing autonomous driving challenges.
+The 1st [WACV](https://wacv2024.thecvf.com/) Workshop on **Large Language and Vision Models for Autonomous Driving (
+LLVM-AD)** seeks to bring together academia and industry professionals in a collaborative exploration of applying large
+language and vision models to autonomous driving. Through a half-day in-person event, the workshop will showcase regular
+and demo paper presentations and invited talks from famous researchers in academia and industry. Additionally, LLVM-AD
+will launch two open-source real-world traffic language understanding datasets, catalyzing practical advancements. The
+workshop will host two challenges based on this dataset to assess the capabilities of language and computer vision
+models in addressing autonomous driving challenges.
 
 ----------
+
 ### Important Dates
 
-- **Paper submission deadline**: October 23th, 2023
+- **Paper submission deadline**: October 23rd, 2023
 - **Author notification**: November 13th, 2023
 - **Camera-ready papers due**: November 19th, 2023
-  
-
 
 ----------
+
 ### Submission Guidelines
-We accept submissions through our CMT. Submissions can be from any subfield of machine learning or related fields of interest subject to the workshop theme. The main goal is to exploring the challenges and immense potential to unlock new horizons in the next-generation landscape of autonomous driving using LLVMs.
+
+We accept submissions through our CMT. Submissions can be from any subfield of machine learning or related fields of
+interest subject to the workshop theme. The main goal is exploring the challenges and immense potential to unlock new
+horizons in the next-generation landscape of autonomous driving using LLVMs.
 
 ----------
+
 ### Invited Speakers
 
 TBD
 
 ----------
+
 ### Organizers
 
 <table style="width:75%">
@@ -99,7 +110,9 @@ TBD
 
 
 ----------
+
 ### Program Committee
+
 - Yang Zhou (NYU)
 - Kaizhao Liang (SambaNova Systems)
 - Tianren Gao (SambaNova Systems)
