@@ -45,9 +45,7 @@ models in addressing autonomous driving challenges.
 
 ### Submission Guidelines
 
-We accept submissions through our CMT. Submissions can be from any subfield of machine learning or related fields of
-interest subject to the workshop theme. The main goal is exploring the challenges and immense potential to unlock new
-horizons in the next-generation landscape of autonomous driving using LLVMs.
+We accept submissions through our CMT. Submissions can be from any subfield of machine learning or related fields of interest subject to the workshop theme. The main goal is exploring the challenges and immense potential to unlock new horizons in the next-generation landscape of autonomous driving using LLVMs.
 
 ----------
 
@@ -71,14 +69,14 @@ TBD
     <td style="text-align:center"><a href="">Zhipeng Cao</a> <br> Tencent</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=oXWRBrwAAAAJ&citpid=25" height="200"></td>
+    <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/yunsheng.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="200"></td>
   </tr>
   <tr>
-  <td style="text-align:center"><a href="https://www.irohxucao.com/">Xu Cao</a> <br> PediaMed AI</td>
-    <td style="text-align:center"><a href="https://maysonma.github.io/">Yunsheng Ma</a> <br> Purdue</td>
-    <td style="text-align:center"><a href="https://cancui19.github.io/">Can Cui</a> <br> Purdue</td>
+  <td style="text-align:center"><a href="https://www.linkedin.com/in/irohxu/">Xu Cao</a> <br> PediaMed AI & University of Illinois Urbana-Champaign</td>
+    <td style="text-align:center"><a href="https://maysonma.github.io/">Yunsheng Ma</a> <br> Purdue University</td>
+    <td style="text-align:center"><a href="https://cancui19.github.io/">Can Cui</a> <br> Purdue University</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="https://wenqian-ye.github.io/images/selfie.jpeg" height="200"></td>
@@ -87,7 +85,7 @@ TBD
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://wenqian-ye.github.io/">Wenqian Ye</a> <br> UVA</td>
-    <td style="text-align:center"><a href="ziranw.github.io">Ziran Wang</a> <br>Purdue</td>
+    <td style="text-align:center"><a href="https://ziranw.github.io">Ziran Wang</a> <br>Purdue University</td>
     <td style="text-align:center"><a href="">Shawn Mei</a> <br> Tencent</td>
   </tr>
   <tr>
@@ -111,15 +109,34 @@ TBD
 
 ----------
 
-### Program Committee
+### Challenge Organization Committee
+- Chao Zheng (Tencent)
+- Kun Tang (Tencent)
+- Zhipeng Cao (Tencent)
+- Tong Zhou (Tencent)
+- Erlong Li (Tencent)
+- Ao Liu (Tencent)
+- Shengtao Zou (Tencent)
+- Xinrui Yan (Tencent)
+- Shawn Mei (Tencent)
+- Yunsheng Ma (Purdue University)
+- Can Cui (Purdue University)
+- Ziran Wang (Purdue University)
+- Yang Zhou (New York Univerity)
+- Kaizhao Liang (SambaNova Systems)
+- Xu Cao (PediaMed AI & University of Illinois Urbana-Champaign)
+- Wenqian Ye (PediaMed AI & University of Virginia)
 
-- Yang Zhou (NYU)
+----------
+
+### Program Committee
+- Yang Zhou (New York Univerity)
 - Kaizhao Liang (SambaNova Systems)
 - Tianren Gao (SambaNova Systems)
 - Kuei-Da Liao (SambaNova Systems)
 - Shan Bao (University of Michigan, Transportation Research Institute)
-- Xuhui Kang (UVA)
-- Sean Sung-Wook Lee (UVA)
+- Xuhui Kang (University of Virginia)
+- Sean Sung-Wook Lee (University of Virginia)
 - Amr Abdelraouf (Toyota Motor North America)
 
 
