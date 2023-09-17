@@ -122,6 +122,10 @@ TBD
 ----------
 
 ### Program Committee
+- Erlong Li (Tencent)
+- Ao Liu (Tencent)
+- Shengtao Zou (Tencent)
+- Xinrui Yan (Tencent)
 - Yang Zhou (New York Univerity)
 - Kaizhao Liang (SambaNova Systems)
 - Tianren Gao (SambaNova Systems)
