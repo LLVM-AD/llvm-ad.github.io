@@ -62,36 +62,28 @@ TBD
     <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=6A1yEFMAAAAJ&citpid=1" height="200"></td>
     <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Kun_Tang.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Zhipeng_Cao.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/yunsheng.jpg" height="200"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="">Chao Zheng</a> <br> Tencent</td>
     <td style="text-align:center"><a href="">Kun Tang</a> <br>Tencent</td>
     <td style="text-align:center"><a href="">Zhipeng Cao</a> <br> Tencent</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" height="200"></td>
-    <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/yunsheng.jpg" height="200"></td>
-    <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="200"></td>
-  </tr>
-  <tr>
-  <td style="text-align:center"><a href="https://www.linkedin.com/in/irohxu/">Xu Cao</a> <br> PediaMed AI & University of Illinois Urbana-Champaign</td>
+    <td style="text-align:center"><a href="https://www.linkedin.com/in/irohxu/">Xu Cao</a> <br> PediaMed AI & University of Illinois Urbana-Champaign</td>
     <td style="text-align:center"><a href="https://maysonma.github.io/">Yunsheng Ma</a> <br> Purdue University</td>
-    <td style="text-align:center"><a href="https://cancui19.github.io/">Can Cui</a> <br> Purdue University</td>
   </tr>
   <tr>
+    <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://wenqian-ye.github.io/images/selfie.jpeg" height="200"></td>
     <td style="text-align:center"><img src="https://ziranw.github.io/Attachments/Ziran_Headshot.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Shawn_Mei.png" height="200"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://wenqian-ye.github.io/">Wenqian Ye</a> <br> UVA</td>
-    <td style="text-align:center"><a href="https://ziranw.github.io">Ziran Wang</a> <br>Purdue University</td>
-    <td style="text-align:center"><a href="">Shawn Mei</a> <br> Tencent</td>
-  </tr>
-  <tr>
     <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Tong_Zhou.jpg" height="200"></td>
   </tr>
   <tr>
+    <td style="text-align:center"><a href="https://cancui19.github.io/">Can Cui</a> <br> Purdue University</td>
+    <td style="text-align:center"><a href="https://wenqian-ye.github.io/">Wenqian Ye</a> <br> University of Virginia </td>
+    <td style="text-align:center"><a href="https://ziranw.github.io">Ziran Wang</a> <br>Purdue University</td>
+    <td style="text-align:center"><a href="">Shawn Mei</a> <br> Tencent</td>
     <td style="text-align:center"><a href="">Tong Zhou</a> <br> Tencent</td>
   </tr>
 </table>
