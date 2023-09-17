@@ -57,7 +57,7 @@ TBD
 
 ### Organizers
 
-<table style="width:50%">
+<table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=6A1yEFMAAAAJ&citpid=1" height="200"></td>
     <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Kun_Tang.jpg" height="200"></td>
@@ -68,9 +68,9 @@ TBD
   <tr>
     <td style="text-align:center"><a href="">Chao Zheng</a> <br> Tencent</td>
     <td style="text-align:center"><a href="">Kun Tang</a> <br>Tencent</td>
-    <td style="text-align:center"><a href="">Zhipeng Cao</a> <br> Tencent</td>
-    <td style="text-align:center"><a href="https://www.linkedin.com/in/irohxu/">Xu Cao</a> <br> PediaMed AI & University of Illinois Urbana-Champaign</td>
-    <td style="text-align:center"><a href="https://maysonma.github.io/">Yunsheng Ma</a> <br> Purdue University</td>
+    <td style="text-align:center"><a href="">Zhipeng Cao</a> <br>Tencent</td>
+    <td style="text-align:center"><a href="https://www.linkedin.com/in/irohxu/">Xu Cao</a> <br>PediaMed AI & University of Illinois Urbana-Champaign</td>
+    <td style="text-align:center"><a href="https://maysonma.github.io/">Yunsheng Ma</a> <br>Purdue University</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="200"></td>
@@ -81,7 +81,7 @@ TBD
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://cancui19.github.io/">Can Cui</a> <br> Purdue University</td>
-    <td style="text-align:center"><a href="https://wenqian-ye.github.io/">Wenqian Ye</a> <br> University of Virginia </td>
+    <td style="text-align:center"><a href="https://wenqian-ye.github.io/">Wenqian Ye</a> <br> PediaMed AI & University of Virginia </td>
     <td style="text-align:center"><a href="https://ziranw.github.io">Ziran Wang</a> <br>Purdue University</td>
     <td style="text-align:center"><a href="">Shawn Mei</a> <br> Tencent</td>
     <td style="text-align:center"><a href="">Tong Zhou</a> <br> Tencent</td>
