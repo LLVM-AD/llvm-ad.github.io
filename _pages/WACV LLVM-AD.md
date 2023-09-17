@@ -116,8 +116,8 @@ TBD
 - Ziran Wang (Purdue University)
 - Yang Zhou (New York Univerity)
 - Kaizhao Liang (SambaNova Systems)
-- Xu Cao (PediaMed AI & University of Illinois Urbana-Champaign)
 - Wenqian Ye (PediaMed AI & University of Virginia)
+- Xu Cao (PediaMed AI & University of Illinois Urbana-Champaign)
 
 ----------
 
@@ -126,7 +126,7 @@ TBD
 - Kaizhao Liang (SambaNova Systems)
 - Tianren Gao (SambaNova Systems)
 - Kuei-Da Liao (SambaNova Systems)
-- Shan Bao (University of Michigan, Transportation Research Institute)
+- Shan Bao (University of Michigan)
 - Xuhui Kang (University of Virginia)
 - Sean Sung-Wook Lee (University of Virginia)
 - Amr Abdelraouf (Toyota Motor North America)
