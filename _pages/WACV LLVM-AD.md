@@ -130,6 +130,6 @@ TBD
 - Xuhui Kang (University of Virginia)
 - Sean Sung-Wook Lee (University of Virginia)
 - Amr Abdelraouf (Toyota Motor North America)
-
+- Jianguo Cao (PediaMed AI)
 
 
