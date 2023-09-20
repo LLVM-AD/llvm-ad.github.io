@@ -21,7 +21,8 @@ TBD -->
 Two open-source datasets are provided for this workshop. The first dataset focuses on extracting traffic language from
 HD maps to aid in traffic scenario comprehension through LLVMs. The second dataset aims to categorize textbased driver
 commands to improve human-vehicle language understanding. While using the datasets is recommended, it is
-**not mandatory** for participation. The MAPLM dataset will be released on **Sep. 22nd**.
+**not mandatory** for participation. 
+<!-- The MAPLM dataset will be released on **Sep. 22nd**. -->
 
 ### Dataset 1: MAPLM
 
