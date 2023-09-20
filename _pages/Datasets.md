@@ -21,11 +21,13 @@ TBD -->
 Two open-source datasets are provided for this workshop. The first dataset focuses on extracting traffic language from
 HD maps to aid in traffic scenario comprehension through LLVMs. The second dataset aims to categorize textbased driver
 commands to improve human-vehicle language understanding. While using the datasets is recommended, it is
-**not mandatory** for participation. The MAPLM dataset will be released on **Sep. 15th**.
+**not mandatory** for participation. The MAPLM dataset will be released on **Sep. 22nd**.
 
 ### Dataset 1: MAPLM
 
-TBA
+Tencent Maps HD Map T.Lab, in collaboration with the University of Illinois at Urbana-Champaign, Purdue University, and the University of Virginia, have launched the industry's first multimodal language+vision (point cloud BEV+panoramic images) traffic scenario understanding dataset: MAPLM. MAPLM provides abundant road scenario images complemented with multi-level scene description data, aiding models in navigating complex and varied traffic environments.
+
+The details is now available at [MAPLM](https://github.com/LLVM-AD/MAPLM).
 
 ### Dataset 2: In-Cabin User Command Understanding (UCU)
 

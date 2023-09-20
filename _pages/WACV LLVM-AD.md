@@ -45,7 +45,7 @@ models in addressing autonomous driving challenges.
 
 ### Submission Guidelines
 
-We accept submissions through our CMT. Submissions can be from any subfield of machine learning or related fields of interest subject to the workshop theme. The main goal is exploring the challenges and immense potential to unlock new horizons in the next-generation landscape of autonomous driving using LLVMs.
+We accept submissions through our [CMT](https://cmt3.research.microsoft.com/LLVMAD2024). Submissions can be from any subfield of machine learning or related fields of interest subject to the workshop theme. The main goal is exploring the challenges and immense potential to unlock new horizons in the next-generation landscape of autonomous driving using LLVMs.
 
 ----------
 
