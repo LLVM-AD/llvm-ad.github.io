@@ -27,7 +27,7 @@ commands to improve human-vehicle language understanding. While using the datase
 
 Tencent Maps HD Map T.Lab, in collaboration with the University of Illinois at Urbana-Champaign, Purdue University, and the University of Virginia, have launched the industry's first multimodal language+vision (point cloud BEV+panoramic images) traffic scenario understanding dataset: MAPLM. MAPLM provides abundant road scenario images complemented with multi-level scene description data, aiding models in navigating complex and varied traffic environments.
 
-The details is now available at [MAPLM](https://github.com/LLVM-AD/MAPLM).
+The detail is now available at [MAPLM](https://github.com/LLVM-AD/MAPLM).
 
 ### Dataset 2: In-Cabin User Command Understanding (UCU)
 
