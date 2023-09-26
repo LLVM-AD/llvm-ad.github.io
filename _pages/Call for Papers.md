@@ -11,27 +11,27 @@ nav_order: 2
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-The LLVM-AD committee invites papers that will undergo the standard peer review process. We accept submissions through our **[CMT](https://cmt3.research.microsoft.com/LLVMAD2024)**. If accepted, the workshop papers will be published in **IEEE Xplore as WACV 2024 Workshop Proceedings** (See previous WACV proceedings format [here](https://openaccess.thecvf.com/WACV2023_workshops/menu)) and will be indexed separately from the main conference proceedings. The papers submitted to the workshop should follow the same formatting requirements as the main conference. Program topics include:
+The LLVM-AD committee invites papers that will undergo the standard peer review process. We accept submissions through our **[CMT](https://cmt3.research.microsoft.com/LLVMAD2024)**. If accepted, the workshop papers will be published in IEEE Xplore as WACV 2024 Workshop Proceedings (See previous WACV proceedings format [here](https://openaccess.thecvf.com/WACV2023_workshops/menu)) and will be indexed separately from the main conference proceedings. The papers submitted to the workshop should follow the same formatting requirements as the main conference. Program topics include:
 
-- Vision-Language Models in Autonomous Systems
+- *Vision-Language Models in Autonomous Systems*
 
-- Large Language Models for Autonomous Driving Applications and Map Systems
+- *Large Language Models for Autonomous Driving Applications and Map Systems*
 
-- Foundation Vision Models for Autonomous Driving
+- *Foundation Vision Models for Autonomous Driving*
 
-- Generative AI for Autonomous Driving and Map Systems
+- *Generative AI for Autonomous Driving and Map Systems*
 
-- Semantics and Scene Understanding in Autonomous Driving
+- *Semantics and Scene Understanding in Autonomous Driving*
 
-- Human-Vehicle Interaction
+- *Human-Vehicle Interaction*
 
-- Domain Adaptation and Transfer Learning in Autonomous Driving
+- *Domain Adaptation and Transfer Learning in Autonomous Driving*
 
-- Safety in Autonomous Driving
+- *Safety in Autonomous Driving*
 
-- Interpretable AI in Autonomous Driving
+- *Interpretable AI in Autonomous Driving*
 
-- Trustworthy Autonomous Vehicles
+- *Trustworthy Autonomous Vehicles*
 
 <!-- The first LLVM-AD workshop invites submissions that contribute to the progression of LLVM within the domain of autonomous driving. We are particularly interested in bridging the gap between the rich image and language data found within the context of autonomous driving. Our primary areas of interest are: a). Traffic Scene Understanding enhanced by LLVMs and 
 b). Human-Vehicle Interactions driven by LLVMs. The detail will be released soon.

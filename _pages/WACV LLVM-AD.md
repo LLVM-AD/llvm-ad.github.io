@@ -25,23 +25,22 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 <!-- ### About LLVM-AD -->
-The 1st [WACV](https://wacv2024.thecvf.com/) Workshop on **Large Language and Vision Models for Autonomous Driving (
-LLVM-AD)** seeks to bring together academia and industry professionals in a collaborative exploration of applying large
+The 1st [WACV](https://wacv2024.thecvf.com/) Workshop on **Large Language and Vision Models for Autonomous Driving (LLVM-AD)** seeks to bring together academia and industry professionals in a collaborative exploration of applying large
 language and vision models to autonomous driving. Through a half-day in-person event, the workshop will showcase regular
 and demo paper presentations and invited talks from famous researchers in academia and industry. Additionally, LLVM-AD
 will launch two open-source real-world traffic language understanding datasets, catalyzing practical advancements. The
 workshop will host two challenges based on this dataset to assess the capabilities of language and computer vision
 models in addressing autonomous driving challenges.
 
-**Note: The workshop challenge will be maintained in the long term, and even after the workshop concludes, we will continue to welcome submissions of new results on the dataset. We will also update the benchmark accordingly.**
+**Note: The workshop challenge will be maintained in the long term, and even after the workshop concludes, we will continue to welcome submissions of new results on the datasets. We will also update the benchmark accordingly.**
 
 ----------
 
 ### Important Dates
 
-- **Paper submission deadline**: October 23rd, 2023
-- **Author notification**: November 13th, 2023
-- **Camera-ready papers due**: November 19th, 2023
+- Paper Submission Deadline: October 23rd, 2023
+- Author Notification: November 13th, 2023
+- Camera-ready Papers Deadline: November 19th, 2023
 
 ----------
 
@@ -83,17 +82,6 @@ TBD
     <td style="text-align:center"><a href="">Tong Zhou</a> <br> Tencent</td>
   </tr>
 </table>
-
-<!-- - Chao Zheng (Tencent)
-- Kun Tang (Tencent)
-- Zhipeng Cao (Tencent)
-- Xu Cao (PediaMed AI)
-- Yunsheng Ma (Purdue)
-- Can Cui (Purdue)
-- Wenqian Ye (UVA)
-- Ziran Wang (Purdue)
-- Shawn Mei (Tencent) -->
-
 
 ----------
 
