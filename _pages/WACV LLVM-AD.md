@@ -33,6 +33,8 @@ will launch two open-source real-world traffic language understanding datasets, 
 workshop will host two challenges based on this dataset to assess the capabilities of language and computer vision
 models in addressing autonomous driving challenges.
 
+**Note: The workshop challenge will be maintained in the long term, and even after the workshop concludes, we will continue to welcome submissions of new results on the dataset. We will also update the benchmark accordingly.**
+
 ----------
 
 ### Important Dates
@@ -40,12 +42,6 @@ models in addressing autonomous driving challenges.
 - **Paper submission deadline**: October 23rd, 2023
 - **Author notification**: November 13th, 2023
 - **Camera-ready papers due**: November 19th, 2023
-
-----------
-
-### Submission Guidelines
-
-We accept submissions through our [CMT](https://cmt3.research.microsoft.com/LLVMAD2024). Submissions can be from any subfield of machine learning or related fields of interest subject to the workshop theme. The main goal is exploring the challenges and immense potential to unlock new horizons in the next-generation landscape of autonomous driving using LLVMs.
 
 ----------
 

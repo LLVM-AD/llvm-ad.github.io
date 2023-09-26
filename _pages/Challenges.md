@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /datasets/
-title: Datasets
+permalink: /challenges/
+title: Challenges
 description: 
 nav: true
 nav_order: 3
@@ -22,17 +22,49 @@ Two open-source datasets are provided for this workshop. The first dataset focus
 HD maps to aid in traffic scenario comprehension through LLVMs. The second dataset aims to categorize textbased driver
 commands to improve human-vehicle language understanding. While using the datasets is recommended, it is
 **not mandatory** for participation. 
-<!-- The MAPLM dataset will be released on **Sep. 22nd**. -->
 
-### Dataset 1: MAPLM
+----------
 
-Tencent Maps HD Map T.Lab, in collaboration with the University of Illinois at Urbana-Champaign, Purdue University, and the University of Virginia, have launched the industry's first multimodal language+vision (point cloud BEV+panoramic images) traffic scenario understanding dataset: MAPLM. MAPLM provides abundant road scenario images complemented with multi-level scene description data, aiding models in navigating complex and varied traffic environments.
+### Challenge 1: MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding
 
-The detail is now available at [MAPLM](https://github.com/LLVM-AD/MAPLM).
+**[Data Download](https://drive.google.com/drive/folders/1cqFjBH8MLeP6nKFM0l7oV-Srfke-Mx1R?usp=sharing); [Git Repo](https://github.com/LLVM-AD/MAPLM)**
 
-### Dataset 2: In-Cabin User Command Understanding (UCU)
+Tencent Maps HD Map T.Lab, in collaboration with the University of Illinois at Urbana-Champaign, Purdue University, and the University of Virginia, have launched the industry's first multimodal language+vision (point cloud BEV+panoramic images) traffic scenario understanding dataset: MAPLM. MAPLM provides abundant road scenario images complemented with multi-level scene description data, aiding models in navigating complex and varied traffic environments.     
 
-[Data Download](https://github.com/LLVM-AD/ucu-dataset/blob/main/ucu.csv); [Code for Evaluation](https://github.com/LLVM-AD/ucu-dataset)
+#### Scene of MAPLM：    
+MAPLM offers a variety of traffic scenarios, including highways, expressways, city roads, and rural roads, along with detailed intersection scenes. Each frame of data includes two components:           
+- **Point Cloud BEV:** A projection image of 3D point cloud viewed from the BEV perspective with clear visuals and high resolution.        
+- **Panoramic Images:** High-resolution photographs captured from front, left-rear, and right-rear angles by a wide-angle camera.    
+
+#### Annotations：    
+- **Feature-level:** Lane lines, ground signs, stop lines, intersection areas, etc.        
+- **Lane-level:** Lane types, directions of traffic, turn categories, etc.       
+- **Road-level:** Scene types, road data quality, intersection structures, etc.     
+
+#### Data Display：    
+Point Cloud BEV image + 3 panoramic photos. Note: Panoramic images are 4096*3000 portrait shots. The image below is only a cropped sample.<br /> 
+
+<div class="msg_desc">
+<img style="max-width:100%;overflow:hidden;" src="https://raw.githubusercontent.com/LLVM-AD/MAPLM/main/figures/example1.png" alt="">
+</div>
+<!-- ![Poster]([./figures/example1.png](https://raw.githubusercontent.com/LLVM-AD/MAPLM/main/figures/example1.png)) -->
+<br />
+
+#### Label Display：    
+The image below illustrates one frame's annotation information, encompassing three parts: road-level information (in red font), lane-level information (yellow geometric lines + orange font), and intersection data (blue polygons + blue font).<br />         
+
+<!-- ![Poster]([./figures/example2.png](https://raw.githubusercontent.com/LLVM-AD/MAPLM/main/figures/example.png)) -->
+<div class="msg_desc">
+<img style="max-width:100%;overflow:hidden;" src="https://raw.githubusercontent.com/LLVM-AD/MAPLM/main/figures/example2.png" alt="">
+</div>
+
+<br />
+
+----------
+
+### Challenge 2: In-Cabin User Command Understanding (UCU)
+
+**[Data Download](https://github.com/LLVM-AD/ucu-dataset/blob/main/ucu.csv); [Code for Evaluation](https://github.com/LLVM-AD/ucu-dataset)**
 
 The future of autonomous vehicles is not only to transport passengers from point A to point B, but also to adapt to
 their needs and preferences. Large Language Models (LLMs) have provided an opportunity to advance the state-of-the-art
@@ -91,3 +123,29 @@ We use two accuracy metrics for evaluation:
 
 1. **Command-level accuracy**: A command is considered correctly understood if all eight answers are correct.
 2. **Question-level accuracy**: Evaluation at the individual question level.
+
+----------
+
+### Citation       
+If the code, datasets, and research behind this workshop inspire you, please cite our work:      
+```
+@inproceedings{tang2023thma,
+  title={THMA: tencent HD Map AI system for creating HD map annotations},
+  author={Tang, Kun and Cao, Xu and Cao, Zhipeng and Zhou, Tong and Li, Erlong and Liu, Ao and Zou, Shengtao and Liu, Chang and Mei, Shuqi and Sizikova, Elena and Zheng, Chao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={13},
+  pages={15585--15593},
+  year={2023}
+}
+```
+
+```
+@article{zheng2023hdmap,
+  title={High-Definition Map Automatic Annotation System Based on Active Learning},
+  author={Zheng, Chao and Cao, Xu and Tang, Kun and Cao, Zhipeng and Sizikova, Elena and Zhou, Tong and Li, Erlong and Liu, Ao and Zou, Shengtao and Yan, Xinrui and Mei, Shuqi},
+  journal={AI Magazine},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
