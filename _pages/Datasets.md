@@ -28,7 +28,30 @@ commands to improve human-vehicle language understanding. While using the datase
 
 Tencent Maps HD Map T.Lab, in collaboration with the University of Illinois at Urbana-Champaign, Purdue University, and the University of Virginia, have launched the industry's first multimodal language+vision (point cloud BEV+panoramic images) traffic scenario understanding dataset: MAPLM. MAPLM provides abundant road scenario images complemented with multi-level scene description data, aiding models in navigating complex and varied traffic environments.
 
-The detail is now available at [MAPLM](https://github.com/LLVM-AD/MAPLM).
+The detail is now available at [MAPLM](https://github.com/LLVM-AD/MAPLM).    
+
+References:    
+```
+@inproceedings{tang2023thma,
+  title={THMA: tencent HD Map AI system for creating HD map annotations},
+  author={Tang, Kun and Cao, Xu and Cao, Zhipeng and Zhou, Tong and Li, Erlong and Liu, Ao and Zou, Shengtao and Liu, Chang and Mei, Shuqi and Sizikova, Elena and Zheng, Chao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={13},
+  pages={15585--15593},
+  year={2023}
+}
+```
+
+```
+@article{zheng2023hdmap,
+  title={High-Definition Map Automatic Annotation System Based on Active Learning},
+  author={Zheng, Chao and Cao, Xu and Tang, Kun and Cao, Zhipeng and Sizikova, Elena and Zhou, Tong and Li, Erlong and Liu, Ao and Zou, Shengtao and Yan, Xinrui and Mei, Shuqi},
+  journal={AI Magazine},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
 
 ### Dataset 2: In-Cabin User Command Understanding (UCU)
 
