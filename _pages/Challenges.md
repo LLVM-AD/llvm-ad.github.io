@@ -29,7 +29,15 @@ commands to improve human-vehicle language understanding. While using the datase
 
 **[Data Download](https://drive.google.com/drive/folders/1cqFjBH8MLeP6nKFM0l7oV-Srfke-Mx1R?usp=sharing); [Git Repo](https://github.com/LLVM-AD/MAPLM)**
 
-Tencent Maps HD Map T.Lab, in collaboration with the University of Illinois at Urbana-Champaign, Purdue University, and the University of Virginia, have launched the industry's first multimodal language+vision (point cloud BEV+panoramic images) traffic scenario understanding dataset: MAPLM. MAPLM provides abundant road scenario images complemented with multi-level scene description data, aiding models in navigating complex and varied traffic environments.     
+Tencent Maps HD Map T.Lab, in collaboration with the University of Illinois at Urbana-Champaign, Purdue University, and the University of Virginia, have launched the industry's first multimodal language+vision (point cloud BEV+panoramic images) traffic scenario understanding dataset: MAPLM. MAPLM provides abundant road scenario images complemented with multi-level scene description data, aiding models in navigating complex and varied traffic environments. 
+
+#### Data Download:
+
+Put the maplm v0.1.z01, maplm v0.1.z02, maplm v0.1.z03, maplm v0.1.zip into one directory then run the following command to unzip the dataset.
+```bash
+zip -s 0  maplm_v0.1.zip --out combine.zip
+unzip combine.zip
+```
 
 #### Scene of MAPLM：    
 MAPLM offers a variety of traffic scenarios, including highways, expressways, city roads, and rural roads, along with detailed intersection scenes. Each frame of data includes two components:           
