@@ -94,11 +94,11 @@ continue to welcome submissions of new results on the datasets. We will also upd
 <div style="overflow-x: auto;">
   <table style="width:75%">
     <tr>
-      <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=6A1yEFMAAAAJ&citpid=1" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Kun_Tang.jpg" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Zhipeng_Cao.jpg" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/yunsheng.jpg" height="150" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=6A1yEFMAAAAJ&citpid=1" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Kun_Tang.jpg" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Zhipeng_Cao.jpg" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/yunsheng.jpg" height="80" style="border-radius: 50%;"></td>
     </tr>
     <tr>
       <td style="text-align:center"><a href="">Chao Zheng</a> <br> Tencent</td>
@@ -108,11 +108,11 @@ continue to welcome submissions of new results on the datasets. We will also upd
       <td style="text-align:center"><a href="https://maysonma.github.io/">Yunsheng Ma</a> <br>Purdue University</td>
     </tr>
     <tr>
-      <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://wenqian-ye.github.io/images/selfie.jpeg" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://ziranw.github.io/Attachments/Ziran_Headshot.jpg" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Shawn_Mei.png" height="100" style="border-radius: 50%;"></td>
-      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Tong_Zhou.jpg" height="100" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://wenqian-ye.github.io/images/selfie.jpeg" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://ziranw.github.io/Attachments/Ziran_Headshot.jpg" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Shawn_Mei.png" height="80" style="border-radius: 50%;"></td>
+      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Tong_Zhou.jpg" height="80" style="border-radius: 50%;"></td>
     </tr>
     <tr>
       <td style="text-align:center"><a href="https://cancui19.github.io/">Can Cui</a> <br> Purdue University</td>
