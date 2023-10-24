@@ -35,7 +35,7 @@ models in addressing autonomous driving challenges.
 
 **Note for Benchmark:** The workshop challenge will be maintained in the long term, and even after the workshop concludes, we will continue to welcome submissions of new results on the datasets. We will also update the benchmark accordingly.
 
-**Note for Submission:** In light of the deadline extension for the WACV main conference, we have also decided to extend our submission deadline to **October 26th, 2023**.
+**Note for Submission:** In light of the extension of final decision release for the WACV 2024 main conference, we decided to extend our submission deadline to **October 26th, 2023**.
 
 ----------
 
