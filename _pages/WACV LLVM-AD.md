@@ -51,7 +51,7 @@ models in addressing autonomous driving challenges.
 <div style="overflow-x: auto;">
   <table style="width:75%">
     <tr>
-      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/zhen_li.jpeg" height="150"></td>
+      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/zhen_li.png" height="150"></td>
       <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/oleg.png" height="150"></td>
     </tr><tr>
       <td style="text-align:center"><a href="https://mypage.cuhk.edu.cn/academics/lizhen/">Dr. Zhen Li</a> <br>Assistant Professor, CUHK</td>
