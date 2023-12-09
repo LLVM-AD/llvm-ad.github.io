@@ -39,7 +39,7 @@ models in addressing autonomous driving challenges.
 
 ----------
 
-### Important Dates
+## Important Dates
 
 - Paper Submission Deadline: ~~October 23rd, 2023~~ <span style="color:red">October 26th, 2023</span>
 - Author Notification: November 13th, 2023
@@ -47,7 +47,7 @@ models in addressing autonomous driving challenges.
 
 ----------
 
-### Invited Speakers
+## Invited Speakers
 <div style="overflow-x: auto;">
   <table style="width:75%">
     <tr>
@@ -67,7 +67,7 @@ models in addressing autonomous driving challenges.
 
 ----------
 
-### Organizers
+## Organizers
 
 <!-- <table style="width:75%">
   <tr>
@@ -132,7 +132,10 @@ models in addressing autonomous driving challenges.
 </div>
 ----------
 
-### Accepted Papers
+## Summary and Accepted Papers
+**Summary of the 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)**
+
+[Arxiv](https://arxiv.org/abs/2311.12320)  | [GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)
 
 **🎉 We would like to congrate the following papers for being accepted to LLVM-AD 2024!**
 
@@ -156,7 +159,7 @@ models in addressing autonomous driving challenges.
 
 ----------
 
-### Challenge Organization Committee
+## Challenge Organization Committee
 
 - Chao Zheng (Tencent)
 - Kun Tang (Tencent)
@@ -177,7 +180,7 @@ models in addressing autonomous driving challenges.
 
 ----------
 
-### Program Committee
+## Program Committee
 
 - Erlong Li (Tencent)
 - Ao Liu (Tencent)
@@ -195,3 +198,18 @@ models in addressing autonomous driving challenges.
 - Jintai Chen (University of Illinois Urbana-Champaign)
 
 
+
+## Citation    
+
+If the survey and our workshop inspire you, please cite our work:    
+
+```
+@misc{cui2023survey,
+      title={A Survey on Multimodal Large Language Models for Autonomous Driving}, 
+      author={Can Cui and Yunsheng Ma and Xu Cao and Wenqian Ye and Yang Zhou and Kaizhao Liang and Jintai Chen and Juanwu Lu and Zichong Yang and Kuei-Da Liao and Tianren Gao and Erlong Li and Kun Tang and Zhipeng Cao and Tong Zhou and Ao Liu and Xinrui Yan and Shuqi Mei and Jianguo Cao and Ziran Wang and Chao Zheng},
+      year={2023},
+      eprint={2311.12320},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
