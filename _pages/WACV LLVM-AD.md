@@ -53,9 +53,11 @@ models in addressing autonomous driving challenges.
     <tr>
       <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/zhen_li.png" height="150"></td>
       <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/oleg.png" height="150"></td>
+      <td style="text-align:center"><img src="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/yu_huang.jpg" height="150"></td>
     </tr><tr>
       <td style="text-align:center"><a href="https://mypage.cuhk.edu.cn/academics/lizhen/">Dr. Zhen Li</a> <br>Assistant Professor, CUHK</td>
       <td style="text-align:center"><a href="https://www.linkedin.com/in/oleg-sinavski/">Dr. Oleg Sinavski</a> <br> Principal Applied Scientist, Wayve</td>
+      <td style="text-align:center"><a href="https://www.linkedin.com/in/yuhuang/">Dr. Yu Huang</a> <br> CEO and Chief Scientist, roboraction.ai</td>
     </tr> 
 
 
