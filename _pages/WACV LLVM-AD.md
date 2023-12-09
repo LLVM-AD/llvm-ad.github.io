@@ -35,7 +35,7 @@ models in addressing autonomous driving challenges.
 
 **Note for Benchmark:** The workshop challenge will be maintained in the long term, and even after the workshop concludes, we will continue to welcome submissions of new results on the datasets. We will also update the benchmark accordingly.
 
-**Note for Submission:** In light of the extension of final decision release for the WACV 2024 main conference, we decided to extend our submission deadline to **October 26th, 2023**.
+<!-- **Note for Submission:** In light of the extension of final decision release for the WACV 2024 main conference, we decided to extend our submission deadline to **October 26th, 2023**. -->
 
 ----------
 
@@ -135,7 +135,7 @@ models in addressing autonomous driving challenges.
 ## Summary and Accepted Papers
 **Summary of the 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)**
 
-[Arxiv](https://arxiv.org/abs/2311.12320)  | [GitHub](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)
+| [Arxiv Link](https://arxiv.org/abs/2311.12320) | [GitHub Link](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) |
 
 **🎉 We would like to congrate the following papers for being accepted to LLVM-AD 2024!**
 
