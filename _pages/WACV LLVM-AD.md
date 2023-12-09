@@ -136,23 +136,23 @@ models in addressing autonomous driving challenges.
 
 **🎉 We would like to congrate the following papers for being accepted to LLVM-AD 2024!**
 
-[Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228)     
+- [Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228)     
 
-[Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)       
+- [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)       
 
-[A Game of Bundle Adjustment - Learning Efficient Convergence](https://arxiv.org/abs/2308.13270) Accepted as a tech report for ICCV 2023 Paper          
+- [A Game of Bundle Adjustment - Learning Efficient Convergence](https://arxiv.org/abs/2308.13270) Accepted as a tech report for ICCV 2023 Paper          
 
-VLAAD: Vision and Language Assistant for Autonomous Driving      
+- VLAAD: Vision and Language Assistant for Autonomous Driving      
 
-A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs     
+- A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs     
 
-[Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/abs/2311.08206)       
+- [Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/abs/2311.08206)       
 
-NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations       
+- NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations       
 
-Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation       
+- Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation       
 
-LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization      
+- LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization      
 
 ----------
 
