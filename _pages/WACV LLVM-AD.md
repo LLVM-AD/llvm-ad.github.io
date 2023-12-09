@@ -135,7 +135,7 @@ models in addressing autonomous driving challenges.
 ## Summary and Accepted Papers
 **Summary of the 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)**
 
-| [Arxiv Link](https://arxiv.org/abs/2311.12320) | [GitHub Link](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) |
+\[[Arxiv Link](https://arxiv.org/abs/2311.12320), [GitHub Link](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving)\]
 
 **🎉 We would like to congrate the following papers for being accepted to LLVM-AD 2024!**
 
