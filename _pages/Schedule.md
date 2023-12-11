@@ -13,7 +13,7 @@ nav_order: 4
             <th>Time</th>
             <th>Event</th>
             <th>Speaker</th>
-            <th>Paper Title (if applicable)</th>
+            <th>Title (if applicable)</th>
         </tr>
     </thead>
     <tbody>
@@ -33,7 +33,7 @@ nav_order: 4
         <tr></tr>
         <tr>
             <td rowspan="3">9:10am – 9:40am</td>
-            <td rowspan="3">Accepted Papers 1,2,3</td>
+            <td rowspan="3">Accepted Papers Session</td>
             <td></td>
             <td>Paper 1: Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles</td>
         </tr>
@@ -61,7 +61,7 @@ nav_order: 4
         <tr></tr>
         <tr>
             <td rowspan="3">10:30am – 11:00am</td>
-            <td rowspan="3">Accepted Papers 4,5,6</td>
+            <td rowspan="3">Accepted Papers Session</td>
             <td></td>
             <td>Paper 4: VLAAD: Vision and Language Assistant for Autonomous Driving</td>
         </tr>
@@ -82,7 +82,7 @@ nav_order: 4
         <tr></tr>
         <tr>
             <td rowspan="4">11:30am – 12:00pm</td>
-            <td rowspan="4">Accepted Papers 7,8,9</td>
+            <td rowspan="4">Accepted Papers Session</td>
             <td></td>
             <td>Paper 7: NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations</td>
         </tr>
@@ -94,10 +94,10 @@ nav_order: 4
             <td></td>
             <td>Paper 9: LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td></td>
             <td></td>
-        </tr>
+        </tr> -->
         <tr>
             <td rowspan="2">12:00pm – 12:30pm</td>
             <td rowspan="2">Summary & Closing Remarks</td>
