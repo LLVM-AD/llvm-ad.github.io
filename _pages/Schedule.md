@@ -30,4 +30,3 @@ nav_order: 4
 | 12:00pm – 12:30pm  | Summary & Closing Remarks    |                     |                             |
 
 
-Will release soon!
