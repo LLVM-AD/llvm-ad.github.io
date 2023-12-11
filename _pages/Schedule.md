@@ -94,10 +94,7 @@ nav_order: 4
             <td></td>
             <td>Paper 9: LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization</td>
         </tr>
-        <!-- <tr>
-            <td></td>
-            <td></td>
-        </tr> -->
+        <tr></tr>
         <tr>
             <td rowspan="2">12:00pm – 12:30pm</td>
             <td rowspan="2">Summary & Closing Remarks</td>
