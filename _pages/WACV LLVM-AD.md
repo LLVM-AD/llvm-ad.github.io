@@ -160,7 +160,7 @@ models in addressing autonomous driving challenges.
 ### Workshop Recording
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=WNaJPyVNPdw&list=PLgcRcf9w8BmKOo3rNyqelp8htJX-UuAGb&index=1">
+src="https://youtu.be/WNaJPyVNPdw?list=PLgcRcf9w8BmKOo3rNyqelp8htJX-UuAGb">
 </iframe>
 
 ----------
