@@ -39,6 +39,17 @@ models in addressing autonomous driving challenges.
 
 ----------
 
+### Workshop Recording
+
+
+<iframe width="540" height="400"
+src="https://www.youtube.com/embed/WNaJPyVNPdw">
+</iframe>
+
+
+
+----------
+
 ### Important Dates
 
 - Paper Submission Deadline: ~~October 23rd, 2023~~ <span style="color:red">October 26th, 2023</span>
@@ -155,13 +166,6 @@ models in addressing autonomous driving challenges.
 
 - LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization  
 
-
-----------
-### Workshop Recording
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/WNaJPyVNPdw">
-</iframe>
 
 ----------
 
