@@ -154,6 +154,12 @@ models in addressing autonomous driving challenges.
 - Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation       
 
 - LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization      
+----------
+### Workshop Recording
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/playlist?list=PLgcRcf9w8BmKOo3rNyqelp8htJX-UuAGb">
+</iframe>
 
 ----------
 
