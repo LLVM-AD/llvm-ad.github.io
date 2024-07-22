@@ -40,7 +40,7 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 ----------
 
 ### Keynote Speakers
-<div class="row projects pt-1 pb-1">
+<!-- <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="" affiliation="" url="" img="" %}
       </div>
@@ -50,7 +50,7 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
       <div class="col-sm-4">
           {% include people.html name="" affiliation="" url="" img="" %}
       </div>
-  </div>
+  </div> -->
 
 
 ----------
@@ -58,16 +58,16 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 ### Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="" %}
-  {% include people_horizontal.html name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="" %}
-  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois" url="https://www.irohxucao.com/" img="" %}
-  {% include people_horizontal.html name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io" img="" %}
-  {% include people_horizontal.html name="SungYeon Park" affiliation="Purdue University" url="https://sypark574.wixsite.com/website" img="" %}
-  {% include people_horizontal.html name="Yi Yang" affiliation="KTH" url="https://www.kth.se/profile/yiya?l=en" img="" %}
-  {% include people_horizontal.html name="Amr Abdelraouf" affiliation="Toyota Motor North America" url="https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en" img="" %}
-  {% include people_horizontal.html name="Jong-Chyi Su" affiliation="Google" url="https://jongchyisu.github.io/" img="" %}
-  {% include people_horizontal.html name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="" %}
-  {% include people_horizontal.html name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="" %}
+  {% include people_horizontal.html name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="https://ysma.me/assets/img/prof_pic_sq.jpg" %}
+  {% include people_horizontal.html name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" %}
+  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois" url="https://www.irohxucao.com/" img="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" %}
+  {% include people_horizontal.html name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io" img="https://wenqian-ye.github.io/images/selfie.jpeg" %}
+  {% include people_horizontal.html name="SungYeon Park" affiliation="Purdue University" url="https://sypark574.wixsite.com/website" img="https://static.wixstatic.com/media/3d56ba_1c599b4dfce1487c998a5b914a92649d~mv2.jpg/v1/fill/w_1030,h_1456,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3d56ba_1c599b4dfce1487c998a5b914a92649d~mv2.jpg" %}
+  {% include people_horizontal.html name="Yi Yang" affiliation="KTH" url="https://www.kth.se/profile/yiya?l=en" img="https://www.kth.se/files/avatar/yiya" %}
+  {% include people_horizontal.html name="Amr Abdelraouf" affiliation="Toyota Motor North America" url="https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en" img="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=kWR3NRUAAAAJ&citpid=5" %}
+  {% include people_horizontal.html name="Jong-Chyi Su" affiliation="Google" url="https://jongchyisu.github.io/" img="https://jongchyisu.github.io/jcsu.jpg" %}
+  {% include people_horizontal.html name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="https://vztu.github.io/images/IMG_0937.JPG" %}
+  {% include people_horizontal.html name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="https://ziranw.github.io/Attachments/Ziran_Headshot.jpg" %}
 </div>
 
 {% comment %}
