@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /call_for_papers/
 title: Call for Papers
 description:

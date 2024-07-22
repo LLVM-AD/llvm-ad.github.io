@@ -1,6 +1,6 @@
 ---
 layout: about
-title: LLVM-AD (ITSC)
+title: LLVM-AD
 permalink: /
 subtitle: 
 
@@ -24,7 +24,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-### About LLVM-AD
+----------
+### About the Workshop
 
 <!-- **Note for Submission:** In light of the extension of final decision release for the WACV 2024 main conference, we decided to extend our submission deadline to **October 26th, 2023**. -->
 The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) at [ITSC 2024](https://ieee-itsc.org/2024/) aims to bring together professionals from academia and industry to explore the application of large language and vision models in autonomous driving. As part of this initiative, the 2nd LLVM-AD workshop launches an open dataset challenge for real-world traffic understanding.
