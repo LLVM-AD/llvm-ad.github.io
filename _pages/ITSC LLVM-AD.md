@@ -40,7 +40,7 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 ----------
 
 ### Keynote Speakers
-<!-- <div class="row projects pt-1 pb-1">
+<div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="1" affiliation="1" url="" img="" %}
       </div>
@@ -50,13 +50,13 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
       <div class="col-sm-4">
           {% include people.html name="1" affiliation="1" url="" img="" %}
       </div>
-  </div> -->
+  </div>
 
 ----------
 
 ### Organizers
 
-<!-- <div class="row row-cols-2 projects pt-3 pb-3">
+<div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="https://ysma.me/assets/img/prof_pic_sq.jpg" %}
   {% include people_horizontal.html name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" %}
   {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois" url="https://www.irohxucao.com/" img="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" %}
@@ -81,4 +81,4 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 * [Zhengzhong Tu](https://vztu.github.io/), Texas A&M University.
 * [Ziran Wang](https://ziranw.github.io/), Purdue University.
 * 
-{% endcomment %} -->
+{% endcomment %}
