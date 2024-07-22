@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Previous Workshop
 permalink: /previous_workshop/
 subtitle:
