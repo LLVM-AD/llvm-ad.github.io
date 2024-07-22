@@ -41,17 +41,6 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 
 ### Keynote Speakers
 TBD
-<!-- <div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
-          {% include people.html name="1" affiliation="1" url="" img="" %}
-      </div>
-      <div class="col-sm-4">
-        {% include people.html name="1" affiliation="1" url="" img="" %}
-      </div>
-      <div class="col-sm-4">
-          {% include people.html name="1" affiliation="1" url="" img="" %}
-      </div>
-  </div> -->
 
 ----------
 
