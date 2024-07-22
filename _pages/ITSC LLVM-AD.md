@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About
+layout: about
+title: LLVM-AD (ITSC)
 permalink: /
 subtitle: LLVM-AD (ITSC)
 

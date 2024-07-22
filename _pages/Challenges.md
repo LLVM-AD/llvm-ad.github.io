@@ -23,7 +23,7 @@ HD maps to aid in traffic scenario comprehension through LLVMs. The second datas
 commands to improve human-vehicle language understanding. While using the datasets is recommended, it is
 **not mandatory** for participation.  -->
 
-The challenge track is based on the MAPLM-QA benchmark, a subset of the MAPLM dataset designed for visual question answering in traffic scene understanding. Participants will develop innovative methods to accurately answer multi-choice questions about complex traffic scenes using high-resolution panoramic images and 2.5D bird's-eye view representations. Top-performing teams will be recognized with certificates and honorariums.
+The challenge track is based on the **MAPLM-QA benchmark**, a subset of the MAPLM dataset designed for visual question answering in traffic scene understanding. Participants will develop innovative methods to accurately answer multi-choice questions about complex traffic scenes using high-resolution panoramic images and 2.5D bird's-eye view representations. Top-performing teams will be recognized with certificates and honorariums.
 
 ----------
 
