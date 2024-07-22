@@ -2,7 +2,7 @@
 layout: about
 title: LLVM-AD (ITSC)
 permalink: /
-subtitle: LLVM-AD (ITSC)
+subtitle: 
 
 # profile:
 #   align: 
@@ -39,12 +39,47 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 
 ----------
 
-### Invited Speakers
-
+### Keynote Speakers
+<div class="row projects pt-1 pb-1">
+      <div class="col-sm-4">
+          {% include people.html name="" affiliation="" url="" img="" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="" affiliation="" url="" img="" %}
+      </div>
+      <div class="col-sm-4">
+          {% include people.html name="" affiliation="" url="" img="" %}
+      </div>
+  </div>
 
 
 ----------
 
 ### Organizers
 
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="" %}
+  {% include people_horizontal.html name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="" %}
+  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois" url="https://www.irohxucao.com/" img="" %}
+  {% include people_horizontal.html name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io" img="" %}
+  {% include people_horizontal.html name="SungYeon Park" affiliation="Purdue University" url="https://sypark574.wixsite.com/website" img="" %}
+  {% include people_horizontal.html name="Yi Yang" affiliation="KTH" url="https://www.kth.se/profile/yiya?l=en" img="" %}
+  {% include people_horizontal.html name="Amr Abdelraouf" affiliation="Toyota Motor North America" url="https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en" img="" %}
+  {% include people_horizontal.html name="Jong-Chyi Su" affiliation="Google" url="https://jongchyisu.github.io/" img="" %}
+  {% include people_horizontal.html name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="" %}
+  {% include people_horizontal.html name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="" %}
+</div>
 
+{% comment %}
+* [Yunsheng Ma](https://ysma.me/), Purdue University.
+* [Can Cui](https://cancui19.github.io/), Purdue University.
+* [Xu Cao](https://www.irohxucao.com/), University of Illinois.
+* [Wenqian Ye](wenqian-ye.github.io), University of Virginia.
+* [SungYeon Park](https://sypark574.wixsite.com/website), Purdue University.
+* [Yi Yang](https://www.kth.se/profile/yiya?l=en), KTH.
+* [Amr Abdelraouf](https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en), Toyota Motor North America.
+* [Jong-Chyi Su](https://jongchyisu.github.io/), Google.
+* [Zhengzhong Tu](https://vztu.github.io/), Texas A&M University.
+* [Ziran Wang](https://ziranw.github.io/), Purdue University.
+* 
+{% endcomment %}
