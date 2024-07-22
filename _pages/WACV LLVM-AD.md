@@ -1,8 +1,10 @@
 ---
 layout: about
-title: LLVM-AD
-permalink: /
+title: Previous Workshop
+permalink: /previous_workshop/
 subtitle:
+nav: true
+nav_order: 5
 
 # profile:
 #   align: 
@@ -40,7 +42,6 @@ models in addressing autonomous driving challenges.
 ----------
 
 ### Workshop Recording
-
 
 <iframe width="540" height="400"
 src="https://www.youtube.com/embed/WNaJPyVNPdw">

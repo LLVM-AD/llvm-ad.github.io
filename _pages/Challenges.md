@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /challenges/
+permalink: /challenge/
 title: Challenges
 description: 
 nav: true
