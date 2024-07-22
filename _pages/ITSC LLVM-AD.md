@@ -55,7 +55,7 @@ TBD
   {% include people_horizontal.html name="Yi Yang" affiliation="KTH" url="https://www.kth.se/profile/yiya?l=en" img="assets/img/itsc_headshots/linkedin-company-logo-yi_yang.jpeg" %}
   {% include people_horizontal.html name="Amr Abdelraouf" affiliation="Toyota Motor North America" url="https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en" img="assets/img/itsc_headshots/linkedin-company-logo-amr.jpeg" %}
   {% include people_horizontal.html name="Jong-Chyi Su" affiliation="Google" url="https://jongchyisu.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-jong-chyi.jpg" %}
-  {% include people_horizontal.html name="Zhengzhong Tu" affiliation="Texas A&M University" url="assets/img/itsc_headshots/linkedin-company-logo-zhengzhong.jpeg" %}
+  {% include people_horizontal.html name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-zhengzhong.jpeg"%}
   {% include people_horizontal.html name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-ziran.jpg" %}
 </div>
 
