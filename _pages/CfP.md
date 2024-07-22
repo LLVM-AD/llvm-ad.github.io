@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /call_for_papers/
-title: CfP
+title: Call for Papers
 description:
 nav: true
 nav_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Previous Workshop
 permalink: /previous_workshop/
 subtitle:
@@ -43,7 +43,7 @@ models in addressing autonomous driving challenges.
 
 ### Workshop Recording
 
-<iframe width="540" height="400"
+<iframe width="540" height="350"
 src="https://www.youtube.com/embed/WNaJPyVNPdw">
 </iframe>
 

@@ -2,7 +2,7 @@
 layout: default
 title: About
 permalink: /
-subtitle:
+subtitle: LLVM-AD (ITSC)
 
 # profile:
 #   align: 

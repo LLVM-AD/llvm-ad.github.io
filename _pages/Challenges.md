@@ -23,13 +23,11 @@ HD maps to aid in traffic scenario comprehension through LLVMs. The second datas
 commands to improve human-vehicle language understanding. While using the datasets is recommended, it is
 **not mandatory** for participation.  -->
 
-The MAPLM dataset focuses on extracting traffic language from
-HD maps to aid in traffic scenario comprehension through LLVMs. While using the provided dataset is recommended, it is
-**not mandatory** for participation. 
+The challenge track is based on the MAPLM-QA benchmark, a subset of the MAPLM dataset designed for visual question answering in traffic scene understanding. Participants will develop innovative methods to accurately answer multi-choice questions about complex traffic scenes using high-resolution panoramic images and 2.5D bird's-eye view representations. Top-performing teams will be recognized with certificates and honorariums.
 
 ----------
 
-### Challenge: MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding
+### MAPLM-QA: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding
 
 **[Data Download](https://drive.google.com/drive/folders/1cqFjBH8MLeP6nKFM0l7oV-Srfke-Mx1R?usp=sharing); [Git Repo](https://github.com/LLVM-AD/MAPLM)**
 
@@ -143,23 +141,11 @@ We use two accuracy metrics for evaluation:
 ### Citation       
 If the code, datasets, and research behind this workshop inspire you, please cite our work:      
 ```
-@inproceedings{tang2023thma,
-  title={THMA: tencent HD Map AI system for creating HD map annotations},
-  author={Tang, Kun and Cao, Xu and Cao, Zhipeng and Zhou, Tong and Li, Erlong and Liu, Ao and Zou, Shengtao and Liu, Chang and Mei, Shuqi and Sizikova, Elena and Zheng, Chao},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={37},
-  number={13},
-  pages={15585--15593},
-  year={2023}
-}
-```
-
-```
-@article{zheng2023hdmap,
-  title={High-Definition Map Automatic Annotation System Based on Active Learning},
-  author={Zheng, Chao and Cao, Xu and Tang, Kun and Cao, Zhipeng and Sizikova, Elena and Zhou, Tong and Li, Erlong and Liu, Ao and Zou, Shengtao and Yan, Xinrui and Mei, Shuqi},
-  journal={AI Magazine},
-  year={2023},
-  publisher={Wiley Online Library}
+@inproceedings{cao2024maplm,
+  title={MAPLM: A Real-World Large-Scale Vision-Language Benchmark for Map and Traffic Scene Understanding},
+  author={Cao, Xu and Zhou, Tong and Ma, Yunsheng and Ye, Wenqian and Cui, Can and Tang, Kun and Cao, Zhipeng and Liang, Kaizhao and Wang, Ziran and Rehg, James M and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={21819--21830},
+  year={2024}
 }
 ```
