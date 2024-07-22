@@ -18,6 +18,10 @@ The LLVM-AD Committee is accepting research paper submissions on various topics,
 - *Multi-Modal Fusion for Autonomous Driving*
 - *Other Applications of Language or Vision Models for Driving*
 
+
+LLVM-AD accepts papers in PDF format via Papercept/Paperplaza platform, maximum 8 (expected 6) pages including references. Accepted papers will be included in ITSC proceedings and will be published by the IEEE Xplore. Papers with highest quality will receive best paper awards.
+
+
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
