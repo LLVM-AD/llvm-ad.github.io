@@ -18,14 +18,18 @@ TBD
 #### Dataset 2
 TBD -->
 
-Two open-source datasets are provided for this workshop. The first dataset focuses on extracting traffic language from
+<!-- Two open-source datasets are provided for this workshop. The first dataset focuses on extracting traffic language from
 HD maps to aid in traffic scenario comprehension through LLVMs. The second dataset aims to categorize textbased driver
 commands to improve human-vehicle language understanding. While using the datasets is recommended, it is
+**not mandatory** for participation.  -->
+
+The MAPLM dataset focuses on extracting traffic language from
+HD maps to aid in traffic scenario comprehension through LLVMs. While using the provided dataset is recommended, it is
 **not mandatory** for participation. 
 
 ----------
 
-### Challenge 1: MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding
+### Challenge: MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding
 
 **[Data Download](https://drive.google.com/drive/folders/1cqFjBH8MLeP6nKFM0l7oV-Srfke-Mx1R?usp=sharing); [Git Repo](https://github.com/LLVM-AD/MAPLM)**
 
@@ -69,6 +73,8 @@ The image below illustrates one frame's annotation information, encompassing thr
 <br />
 
 ----------
+
+<!-- ----------
 
 ### Challenge 2: In-Cabin User Command Understanding (UCU)
 
@@ -132,7 +138,7 @@ We use two accuracy metrics for evaluation:
 1. **Command-level accuracy**: A command is considered correctly understood if all eight answers are correct.
 2. **Question-level accuracy**: Evaluation at the individual question level.
 
-----------
+---------- -->
 
 ### Citation       
 If the code, datasets, and research behind this workshop inspire you, please cite our work:      

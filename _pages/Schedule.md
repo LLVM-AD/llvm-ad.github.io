@@ -7,8 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-**Workshop Time:** Jan 8th, 8:30 am - 12:30 pm HST, 2024
+**Workshop Location:** Edmonton, Canada 
+**Workshop Time:** September 24th, 2024
 
+<!-- 
 **Zoom Link:** https://nyu.zoom.us/j/94005874508
 
 <table>
@@ -107,5 +109,5 @@ nav_order: 4
         </tr>
         <tr></tr>
     </tbody>
-</table>
+</table> -->
 
