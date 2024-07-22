@@ -1,2 +1,2 @@
-# Official Website of LLVM-AD Workshop at WACV 2024
+# Official Website of LLVM-AD Workshop Series
 https://llvm-ad.github.io/
