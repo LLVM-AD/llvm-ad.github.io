@@ -57,7 +57,7 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 
 ### Organizers
 
-<div class="row row-cols-2 projects pt-3 pb-3">
+<!-- <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="https://ysma.me/assets/img/prof_pic_sq.jpg" %}
   {% include people_horizontal.html name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="https://purduedigitaltwin.github.io/assets/images/people/can.jpg" %}
   {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois" url="https://www.irohxucao.com/" img="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" %}
@@ -68,7 +68,7 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
   {% include people_horizontal.html name="Jong-Chyi Su" affiliation="Google" url="https://jongchyisu.github.io/" img="https://jongchyisu.github.io/jcsu.jpg" %}
   {% include people_horizontal.html name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="https://vztu.github.io/images/IMG_0937.JPG" %}
   {% include people_horizontal.html name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="https://ziranw.github.io/Attachments/Ziran_Headshot.jpg" %}
-</div>
+</div> -->
 
 {% comment %}
 * [Yunsheng Ma](https://ysma.me/), Purdue University.
