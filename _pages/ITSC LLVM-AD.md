@@ -49,7 +49,7 @@ TBD
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="assets/img/itsc_headshots/linkedin-company-logo-yunsheng.jpg" %}
   {% include people_horizontal.html name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-can_cui.jpg" %}
-  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois" url="https://www.irohxucao.com/" img="https://raw.githubusercontent.com/LLVM-AD/llvm-ad.github.io/main/assets/img/Xu_Cao.jpg" %}
+  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois" url="https://www.irohxucao.com/" img="assets/img/itsc_headshots/linkedin-company-logo-xu_cao.jpg" %}
   {% include people_horizontal.html name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io" img="assets/img/itsc_headshots/linkedin-company-logo-wenqian.jpeg" %}
   {% include people_horizontal.html name="SungYeon Park" affiliation="Purdue University" url="https://sypark574.wixsite.com/website" img="assets/img/itsc_headshots/linkedin-company-logo-sungyeon.webp" %}
   {% include people_horizontal.html name="Yi Yang" affiliation="KTH" url="https://www.kth.se/profile/yiya?l=en" img="assets/img/itsc_headshots/linkedin-company-logo-yi_yang.jpeg" %}
