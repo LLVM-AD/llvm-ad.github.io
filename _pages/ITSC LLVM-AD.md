@@ -30,13 +30,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <!-- **Note for Submission:** In light of the extension of final decision release for the WACV 2024 main conference, we decided to extend our submission deadline to **October 26th, 2023**. -->
 The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) at [ITSC 2024](https://ieee-itsc.org/2024/) aims to bring together professionals from academia and industry to explore the application of large language and vision models in autonomous driving. As part of this initiative, the 2nd LLVM-AD workshop launches an open dataset challenge for real-world traffic understanding.
 
-----------
+<!-- ----------
 
 ### Important Dates
 
 - Paper Submission Deadline: TBD
 - Author Notification: TBD
-- Camera-ready Papers Deadline: TBD
+- Camera-ready Papers Deadline: TBD -->
 
 ----------
 
@@ -57,6 +57,7 @@ TBD
   {% include people_horizontal.html name="Amr Abdelraouf" affiliation="Toyota Motor North America" url="https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en" img="assets/img/itsc_headshots/linkedin-company-logo-amr.jpeg" %}
   {% include people_horizontal.html name="Jong-Chyi Su" affiliation="Google" url="https://jongchyisu.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-jong-chyi.jpg" %}
   {% include people_horizontal.html name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-zhengzhong.jpeg"%}
+  {% include people_horizontal.html name="Jiachen Li" affiliation="University of California, Riverside" url="https://jiachenli94.github.io/" img="assets/img/itsc_headshots/jiachen.jpg"%}
   {% include people_horizontal.html name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-ziran.jpg" %}
 </div>
 
@@ -70,6 +71,7 @@ TBD
 * [Amr Abdelraouf](https://scholar.google.com/citations?user=kWR3NRUAAAAJ&hl=en), Toyota Motor North America.
 * [Jong-Chyi Su](https://jongchyisu.github.io/), Google.
 * [Zhengzhong Tu](https://vztu.github.io/), Texas A&M University.
+* [Jiachen Li](https://jiachenli94.github.io/), University of California, Riverside.
 * [Ziran Wang](https://ziranw.github.io/), Purdue University.
 * 
 {% endcomment %}
