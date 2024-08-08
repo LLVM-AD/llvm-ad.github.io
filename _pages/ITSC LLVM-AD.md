@@ -30,8 +30,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <!-- **Note for Submission:** In light of the extension of final decision release for the WACV 2024 main conference, we decided to extend our submission deadline to **October 26th, 2023**. -->
 The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) at [ITSC 2024](https://ieee-itsc.org/2024/) aims to bring together professionals from academia and industry to explore the application of large language and vision models in autonomous driving. As part of this initiative, the 2nd LLVM-AD workshop launches an open dataset challenge for real-world traffic understanding.
 
-LLVM-AD accepts papers in PDF format via Papercept/Paperplaza platform, maximum 8 (expected 6) pages including references. Accepted papers will be included in ITSC proceedings and will be published by the IEEE Xplore. Papers with highest quality will receive best paper awards.
-
 <!-- ----------
 
 ### Important Dates

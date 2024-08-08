@@ -8,7 +8,8 @@ nav_order: 2
 ---
 
 
-The LLVM-AD Committee is accepting research paper submissions on various topics, including but not limited to:
+The topics of the LLVM-AD workshop include:
+
 - Vision or Language Models in Autonomous Driving
 - Multimodal Motion Planning and Prediction
 - New Dataset for Language or Vision Models in Autonomous Driving
