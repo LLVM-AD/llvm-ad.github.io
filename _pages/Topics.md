@@ -1,25 +1,33 @@
 ---
 layout: page
-permalink: /call_for_papers/
-title: Call for Papers
+permalink: /topics/
+title: Topics
 description:
-nav: false
+nav: true
 nav_order: 2
 ---
 
 
 The LLVM-AD Committee is accepting research paper submissions on various topics, including but not limited to:
-- *Vision or Language Models in Autonomous Driving*
-- *Multimodal Motion Planning and Prediction*
-- *New Dataset for Language or Vision Models in Autonomous Driving*
-- *Semantics and Scene Understanding in Autonomous Driving*
-- *Language-Driven Sensor and Traffic Simulation*
-- *Domain Adaptation and Transfer Learning in Autonomous Driving*
-- *Multi-Modal Fusion for Autonomous Driving*
-- *Other Applications of Language or Vision Models for Driving*
+- Vision or Language Models in Autonomous Driving
+- Multimodal Motion Planning and Prediction
+- New Dataset for Language or Vision Models in Autonomous Driving
+- Semantics and Scene Understanding in Autonomous Driving
+- Language-Driven Sensor and Traffic Simulation
+- Domain Adaptation and Transfer Learning in Autonomous Driving
+- Multi-Modal Fusion for Autonomous Driving
+- Other Applications of Language or Vision Models for DrivingThe LLVM-AD Committee is accepting research paper submissions on various topics, including but not limited to:
+- Vision or Language Models in Autonomous Driving
+- Multimodal Motion Planning and Prediction
+- New Dataset for Language or Vision Models in Autonomous Driving
+- Semantics and Scene Understanding in Autonomous Driving
+- Language-Driven Sensor and Traffic Simulation
+- Domain Adaptation and Transfer Learning in Autonomous Driving
+- Multi-Modal Fusion for Autonomous Driving
+- Other Applications of Language or Vision Models for Driving
 
 
-LLVM-AD accepts papers in PDF format via Papercept/Paperplaza platform, maximum 8 (expected 6) pages including references. Accepted papers will be included in ITSC proceedings and will be published by the IEEE Xplore. Papers with highest quality will receive best paper awards.
+
 
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
