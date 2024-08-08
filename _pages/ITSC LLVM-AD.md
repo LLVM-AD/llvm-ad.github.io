@@ -45,7 +45,7 @@ LLVM-AD accepts papers in PDF format via Papercept/Paperplaza platform, maximum 
 ### Keynote Speakers
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
-          {% include people.html name="Manmohan Chandraker" affiliation="UCSD \& NEC Lab America" url="https://www.nec-labs.com/research/media-analytics/people/manmohan-chandraker/" img="assets/img/itsc_headshots/manmohan.jpg" %}
+          {% include people.html name="Manmohan Chandraker" affiliation="UCSD & NEC Lab America" url="https://www.nec-labs.com/research/media-analytics/people/manmohan-chandraker/" img="assets/img/itsc_headshots/manmohan.jpg" %}
       </div>
   </div>
 
