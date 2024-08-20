@@ -17,16 +17,7 @@ The topics of the LLVM-AD workshop include:
 - Language-Driven Sensor and Traffic Simulation
 - Domain Adaptation and Transfer Learning in Autonomous Driving
 - Multi-Modal Fusion for Autonomous Driving
-- Other Applications of Language or Vision Models for DrivingThe LLVM-AD Committee is accepting research paper submissions on various topics, including but not limited to:
-- Vision or Language Models in Autonomous Driving
-- Multimodal Motion Planning and Prediction
-- New Dataset for Language or Vision Models in Autonomous Driving
-- Semantics and Scene Understanding in Autonomous Driving
-- Language-Driven Sensor and Traffic Simulation
-- Domain Adaptation and Transfer Learning in Autonomous Driving
-- Multi-Modal Fusion for Autonomous Driving
 - Other Applications of Language or Vision Models for Driving
-
 
 
 
