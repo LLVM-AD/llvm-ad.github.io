@@ -7,8 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-# Schedule 
-
 **Date:** 8:30am-12:30pm, September 24
 
 - [8:30-8:45] Opening Remarks
