@@ -30,6 +30,8 @@ commands to improve human-vehicle language understanding. While using the datase
 
 The challenge track is based on the **MAPLM-QA benchmark**, a subset of the MAPLM dataset designed for visual question answering in traffic scene understanding. Participants will develop innovative methods to accurately answer multi-choice questions about complex traffic scenes using high-resolution panoramic images and 2.5D bird's-eye view representations. Top-performing teams will be recognized with certificates and honorariums.
 
+**Please submit your results by filling out this [form](https://forms.office.com/r/mapGsGWQNf). This will allow us to update your results on the leaderboard.**
+
 
 ### Citation       
 If the code, datasets, and research behind this workshop inspire you, please cite our work:      
