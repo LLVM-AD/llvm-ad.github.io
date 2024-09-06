@@ -45,6 +45,9 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
       <div class="col-sm-4">
           {% include people.html name="Manmohan Chandraker" affiliation="UCSD & NEC Lab America" url="https://www.nec-labs.com/research/media-analytics/people/manmohan-chandraker/" img="assets/img/itsc_headshots/manmohan.jpg" %}
       </div>
+      <div class="col-sm-4">
+          {% include people.html name="Long Chen" affiliation="Wayve" url="https://long.ooo/" img="assets/img/itsc_headshots/long_chen.png" %}
+      </div>
   </div>
 
 ----------
