@@ -25,4 +25,3 @@ nav_order: 4
 | **11:15-11:30**| *Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks*<br> **Malsha Mahawatta**, University of Gothenburg<br> [malsha.mahawatta@gu.se](mailto:malsha.mahawatta@gu.se) |
 | **11:30-12:15**| **Keynote: TBD** <br> **Manmohan Chandraker**, NEC Labs America <br> <https://www.nec-labs.com/research/media-analytics/people/manmohan-chandraker/>|
 | **12:15-12:30**| **Closing Remarks**                                                                                     |
-|                                                                                   |
