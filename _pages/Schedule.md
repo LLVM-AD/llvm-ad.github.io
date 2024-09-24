@@ -25,5 +25,5 @@ nav_order: 4
 | **10:45-11:00**| *ScenarioQA: Evaluating Test Scenario Reasoning Capabilities of Large Language Models*<br> **Ishaan Paranjape**, UC Santa Cruz<br> [iparanja@ucsc.edu](mailto:iparanja@ucsc.edu) (Zoom) |
 | **11:00-11:15**| *Large Language Models for Human-Like Autonomous Driving: A Survey*<br> **Yun LI**, The University of Tokyo<br> [li-yun@g.ecc.u-tokyo.ac.jp](mailto:li-yun@g.ecc.u-tokyo.ac.jp) |
 | **11:15-11:30**| *Evaluating and Enhancing Trustworthiness of LLMs in Perception Tasks*<br> **Malsha Mahawatta**, University of Gothenburg<br> [malsha.mahawatta@gu.se](mailto:malsha.mahawatta@gu.se) |
-| **11:30-12:15**| **Keynote: TBD** <br> **Manmohan Chandraker**, NEC Labs America <br> <https://www.nec-labs.com/research/media-analytics/people/manmohan-chandraker/>|
+| **11:30-12:15**| **Keynote: Towards Scalable Autonomy** <br> **Manmohan Chandraker**, NEC Labs America <br> <https://www.nec-labs.com/research/media-analytics/people/manmohan-chandraker/>|
 | **12:15-12:30**| **Closing Remarks**                                                                                     |
