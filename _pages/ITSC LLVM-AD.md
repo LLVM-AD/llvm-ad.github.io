@@ -68,6 +68,25 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
   {% include people_horizontal.html name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="assets/img/itsc_headshots/linkedin-company-logo-ziran.jpg" %}
 </div>
 
+
+----------
+
+### Keynote Talks
+
+#### Towards Scalable Autonomy (Manmohan Chandraker)
+ 
+**Abstract:**
+While autonomous driving has made large strides over the past decade to be deployed in practice today, scaling it across a diversity of conditions and behaviors remains expensive. This talk explores the possibility of recent advances in large language models (LLMs) and computer vision foundational models allowing the development of more scalable driving, simulation and devops stacks for autonomous mobility. These include perception and planning that leverage language guidance, photorealistic simulation of safety-critical scenarios with neural rendering and controllable diffusion, automated devops based on vision-language understanding and a look ahead to agentic LLMs that automate complex autonomy workflows.
+ 
+**Bio:**
+Manmohan Chandraker is a professor in the CSE department of the University of California, San Diego and leads computer vision research at NEC Labs. His research interests are in vision, learning and graphics, with applications to autonomous driving and augmented reality. His works have been recognized with best paper awards at CVPR, ICCV and ECCV, the NSF CAREER Award, Qualcomm and Google Research Awards. He serves on NSF panels on vision, learning and robotics and on senior program committees at CVPR, ICCV, ECCV, AAAI, NeurIPS and ICLR. 
+
+#### Large Language and Vision Models for Autonomous Driving (Long Chen)
+
+**Bio:** 
+Long Chen is a distinguished research lead, with a proven track record in developing disruptive AI technologies. He currently holds the position of Staff Scientist at Wayve, where he is at the forefront of building vision-language-action (VLA) models for the next wave of autonomous driving, such as Driving-with-LLMs and LINGO. Previously, he was a research engineer at Lyft Level 5, where he led the data-driven planning models from crowd-sourced data for Lyft’s self-driving cars. His extensive experience also includes applying AI technologies in various domains such as mixed reality, surgical robots, and healthcare.
+
+----------
 {% comment %}
 * [Yunsheng Ma](https://ysma.me/), Purdue University.
 * [Can Cui](https://cancui19.github.io/), Purdue University.
