@@ -52,6 +52,14 @@ The 2nd Workshop on Large Language and Vision Models for Autonomous Driving (LLV
 
 ----------
 
+### Workshop Recording
+
+<!-- https://www.youtube.com/watch?v=zvrsS3JjThE&t=4s -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zvrsS3JjThE?si=9qeL7ms0QPHmmrwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+----------
+
 ### Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
