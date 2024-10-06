@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Previous Workshop
-permalink: /previous_workshop/
+title: Previous Workshops
+permalink: /previous_workshops/
 subtitle:
 nav: true
 nav_order: 5
