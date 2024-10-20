@@ -12,5 +12,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-- **WACV 2024:** [Link](/WACV_2024/)
-- **ITSC 2024:** [Link](/ITSC_2024/)
+#### WACV 2024: [Link](/WACV_2024/)
+#### ITSC 2024: [Link](/ITSC_2024/)
