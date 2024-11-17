@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 2
 ---
+
+----------
 ## Author Guidelines
 
 Our submission follows the WACV main conference:
@@ -14,6 +16,8 @@ Our submission follows the WACV main conference:
 2. **Author Submission Site Guide**: [WACV 2025 Author Submission Site Guide](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025-Author-Submission-Site-Guide.pdf)  
 3. **Camera Ready Instructions**: [WACV 2025 Camera Ready Submission Instructions](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025_-Camera-Ready-Submission-Instructions_UPDATE_2024_10_24.pdf)  
 4. **Workshop Website**: [LLVM-AD Workshop](https://llvm-ad.github.io/)  
+
+----------
 
 ## Submission Guidelines
 
@@ -54,6 +58,8 @@ To improve reproducibility in AI research, we highly encourage authors to volunt
 - Include clear instructions for setting up the environment and running the code.  
 - The code should cover the main results and as many minor experiments as possible.  
 - All submitted code and data will be reviewed confidentially and kept private.  
+
+----------
 
 ## Topics
 
