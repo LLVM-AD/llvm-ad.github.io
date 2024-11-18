@@ -21,7 +21,9 @@ Our submission follows the WACV main conference:
 
 ## Submission Guidelines
 
-All submissions will be handled electronically via CMT. By submitting a paper, the authors agree to the policies stipulated on this website. WACV follows a two-round submission process. Please check the conference web pages for the most up-to-date deadlines.
+All submissions will be handled electronically via CMT. The <a href=" ">Microsoft CMT service</a > was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. 
+
+By submitting a paper, the authors agree to the policies stipulated on this website. WACV follows a two-round submission process. Please check the conference web pages for the most up-to-date deadlines.
 
 - **Page Limit**: Papers are limited to eight pages, including figures and tables, in the WACV style. Additional pages containing only cited references are allowed.  
 - **Templates**: Please refer to the WACV Author Kit ([Overleaf template](https://www.overleaf.com/latex/templates/wacv-2025-author-kit-template/zfydvwqrjmsb), [ZIP Archive](https://www.dropbox.com/scl/fi/su44zgdhrzik26p2xu37k/WACV-2025-Author-Kit-Template.zip?rlkey=5qcfimjhxnmx3wlyk7yhk8wg7&dl=0)).  
