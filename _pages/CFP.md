@@ -12,7 +12,7 @@ nav_order: 2
 
 Our submission follows the WACV main conference:
 
-1. **Submission Site**: TBD  
+1. **Submission Site**: [https://cmt3.research.microsoft.com/LLVMAD2025](https://cmt3.research.microsoft.com/LLVMAD2025)  
 2. **Author Submission Site Guide**: [WACV 2025 Author Submission Site Guide](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025-Author-Submission-Site-Guide.pdf)  
 3. **Camera Ready Instructions**: [WACV 2025 Camera Ready Submission Instructions](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025_-Camera-Ready-Submission-Instructions_UPDATE_2024_10_24.pdf)  
 4. **Workshop Website**: [LLVM-AD Workshop](https://llvm-ad.github.io/)  
