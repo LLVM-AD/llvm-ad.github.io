@@ -30,7 +30,7 @@ commands to improve human-vehicle language understanding. While using the datase
 
 The challenge track is based on the **MAPLM-QA benchmark**, a subset of the MAPLM dataset designed for visual question answering in traffic scene understanding. Participants will develop innovative methods to accurately answer multi-choice questions about complex traffic scenes using high-resolution panoramic images and 2.5D bird's-eye view representations. Top-performing teams will be recognized with certificates and honorariums. Detailed information about the challenge can be found in the [MAPLM-QA v2.0 dataset](https://huggingface.co/datasets/LLVM-AD/maplm_v2).
 
-**Please submit your results by filling out this [form](https://forms.office.com/r/mapGsGWQNf). This will allow us to update your results on the leaderboard. The deadline of the challenge is <span style="color:red">Jan 15th</span>.**
+**Please submit your results by filling out this [form](https://forms.office.com/r/mapGsGWQNf). This will allow us to update your results on the leaderboard. The deadline of the challenge is <span style="color:red">Jan 5th</span>.**
 
 
 ### Citation       
