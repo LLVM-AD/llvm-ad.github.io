@@ -9,7 +9,7 @@ nav_order: 4
 
 **Workshop Date:** March 4, 2025 (MST) \
 **Workshop Location:** AZ Ballroom Salon 12 \
-**Zoom:** [link](https://purdue-edu.zoom.us/j/96964702241)
+**Zoom:** [https://purdue-edu.zoom.us/j/96964702241](https://purdue-edu.zoom.us/j/96964702241)
 
 **Please find the workshop schedule below (MST):**
 
