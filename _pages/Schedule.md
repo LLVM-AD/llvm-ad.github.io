@@ -7,7 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-**Workshop Date:** March 4, 2025 (MST) \
+TBD
+
+<!-- **Workshop Date:** March 4, 2025 (MST) \
 **Workshop Location:** AZ Ballroom Salon 12 \
 **Zoom:** [https://purdue-edu.zoom.us/j/96964702241](https://purdue-edu.zoom.us/j/96964702241)
 
@@ -30,4 +32,4 @@ nav_order: 4
 | 16:10 -- 16:20 | Paper Presentation: Glimpse of MCQ based VQA in Road & Traffic Scenarios          |
 | 16:20 -- 16:30 | Paper Presentation: OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving          |
 | 16:30 -- 16:40 | Paper Presentation: Evaluating Multimodal Vision-Language Model Prompting Strategies for Visual Question Answering in Road Scene Understanding          |
-| 16:40 -- 17:00 | Summary & Closing Remarks                                 |
+| 16:40 -- 17:00 | Summary & Closing Remarks                                 | -->
