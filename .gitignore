@@ -9,3 +9,4 @@ Gemfile.lock
 docker-compose.yml
 docker-local.yml
 Dockerfile
+.specstory
