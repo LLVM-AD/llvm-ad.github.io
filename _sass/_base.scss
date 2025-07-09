@@ -103,6 +103,14 @@ blockquote {
       align-items: center;
     }
   }
+
+  // People card specific styles
+  .card-img {
+    img {
+      object-fit: cover;
+      object-position: center;
+    }
+  }
 }
 
 // Citation
