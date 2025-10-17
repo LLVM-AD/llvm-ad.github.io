@@ -10,22 +10,30 @@ nav_order: 2
 ----------
 ## Author Guidelines
 
-TBD 
+Our submission generally follows the WACV main conference.
 
-<!-- Our submission follows the WACV main conference:
+1. **Submission Site**: Papers should be submitted via the OpenReview system. The link will be updated soon.
+2. **Author Submission Guide**: [WACV 2026 Author Submission Guide](https://wacv.thecvf.com/Conferences/2026/AuthorReviewerGuides)  
+<!-- 3. **Camera Ready Instructions**:  -->
+1. **Workshop Website**: [5th LLVM-AD Workshop at WACV 2026](/WACV_2026)   
 
-1. **Submission Site**: [https://cmt3.research.microsoft.com/LLVMAD2025](https://cmt3.research.microsoft.com/LLVMAD2025)  
-2. **Author Submission Site Guide**: [WACV 2025 Author Submission Site Guide](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025-Author-Submission-Site-Guide.pdf)  
-3. **Camera Ready Instructions**: [WACV 2025 Camera Ready Submission Instructions](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025_-Camera-Ready-Submission-Instructions_UPDATE_2024_10_24.pdf)  
-4. **Workshop Website**: [LLVM-AD Workshop](https://llvm-ad.github.io/)   -->
+LLVM-AD accepts both **regular papers (6-8 pages)** and **demo papers (2-4 pages)**. Submissions are expected to follow the same [guidelines](https://wacv.thecvf.com/Conferences/2026/AuthorReviewerGuides) as those for WACV's main conference papers. All accepted demo papers will be included into the workshop proceedings. 
 
-----------
+**Regular Papers**: Manuscripts of upto **8 pages**. 
+<!-- The best paper elected by the committee will have the opportunity to receive outstanding paper award and **\$300** in recognition of their outstanding contributions. -->
 
-## Submission Guidelines
+**Demo Papers**: Manuscripts of upto **4 pages**. Demo papers should also include 1 additional page for references, maintaining the same formatting and guidelines. The main objective of these demo papers within the workshop is to foster the exchange of novel concepts and spotlight the practical utility of LLMs in the context of autonomous driving. 
 
-TBD
+<!-- 1. **Submission Site**: [https://cmt3.research.microsoft.com/LLVMAD2025](https://cmt3.research.microsoft.com/LLVMAD2025)  
+1. **Author Submission Site Guide**: [WACV 2025 Author Submission Site Guide](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025-Author-Submission-Site-Guide.pdf)  
+2. **Camera Ready Instructions**: [WACV 2025 Camera Ready Submission Instructions](https://wacv2025.thecvf.com/wp-content/uploads/2024/10/WACV-2025_-Camera-Ready-Submission-Instructions_UPDATE_2024_10_24.pdf)  
+3. **Workshop Website**: [LLVM-AD Workshop](https://llvm-ad.github.io/WACV_2026)   -->
 
-<!-- All submissions will be handled electronically via CMT. The <a href=" ">Microsoft CMT service</a > was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. 
+<!-- ---------- -->
+
+<!-- ## Submission Guidelines
+
+All submissions will be handled electronically via CMT. The <a href=" ">Microsoft CMT service</a > was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. 
 
 By submitting a paper, the authors agree to the policies stipulated on this website. WACV follows a two-round submission process. Please check the conference web pages for the most up-to-date deadlines.
 
@@ -33,9 +41,9 @@ By submitting a paper, the authors agree to the policies stipulated on this webs
 - **Templates**: Please refer to the WACV Author Kit ([Overleaf template](https://www.overleaf.com/latex/templates/wacv-2025-author-kit-template/zfydvwqrjmsb), [ZIP Archive](https://www.dropbox.com/scl/fi/su44zgdhrzik26p2xu37k/WACV-2025-Author-Kit-Template.zip?rlkey=5qcfimjhxnmx3wlyk7yhk8wg7&dl=0)).  
 - **Rejection Policy**: Papers that are not properly anonymized, do not use the template, or exceed eight pages (excluding references) will be rejected without review. -->
 
-### Creating a Paper Submission 
+<!-- ### Creating a Paper Submission 
 
-TBD
+TBD -->
 
 <!-- - Click the **“+ Create new submission”** button in the upper-left to create a new submission. You will be prompted to enter the title, abstract, authors, and subject areas.  
 - Ensure the following with your co-authors:
@@ -46,32 +54,26 @@ TBD
 
 ### Other Submission Details  
 
-TBD
-
-<!-- - **Authorship Changes**:  
+- **Authorship Changes**:  
   - After the submission deadline, the list of authors will be considered final.  
   - New authors **cannot** be added, and authors **cannot** be removed.  
   - Changes to the authorship order will only be permitted in exceptional circumstances.  
 
 - **Submission Requirements**:  
   - Maximum abstract size: 4000 characters.  
-  - Paper format: PDF only (maximum size: 20MB). Ensure your paper meets the formatting and anonymity requirements described above.   -->
+  - Paper format: PDF only (maximum size: 20MB). Ensure your paper meets the formatting and anonymity requirements described above.  
 
 ### Code Submission and Reproducibility  
 
-TBD
+To improve reproducibility in AI research, we highly encourage authors to voluntarily submit their code as part of the supplementary material.  
 
-<!-- To improve reproducibility in AI research, we highly encourage authors to voluntarily submit their code as part of the supplementary material.  
-
-- Use the [Reproducibility Checklist](https://www.dropbox.com/scl/fi/su44zgdhrzik26p2xu37k/WACV-2025-Author-Kit-Template.zip?rlkey=5qcfimjhxnmx3wlyk7yhk8wg7&dl=0) as a guide for writing reproducible papers.  
+- Use the [Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) as a guide for writing reproducible papers.  
 - Reviewers are encouraged to check submitted code to ensure the trustworthiness and reproducibility of the paper’s results.  
-
 - The code must be anonymized (e.g., remove author names and institutions, including in license/copyright statements).  
 - Include clear instructions for setting up the environment and running the code.  
 - The code should cover the main results and as many minor experiments as possible.  
-- All submitted code and data will be reviewed confidentially and kept private.   -->
+- All submitted code and data will be reviewed confidentially and kept private.  
 
-----------
 
 ## Topics
 
@@ -86,8 +88,6 @@ The LLVM-AD Committee is accepting research paper submissions on various topics,
 - Multimodal Fusion in Autonomous Driving 
 - State Space Models for Autonomous Driving 
 - Other Applications of Language/Vision Models for Driving 
-
-
 
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
@@ -122,9 +122,6 @@ b). Human-Vehicle Interactions driven by LLVMs. The detail will be released soon
 
 If accepted, the workshop papers will be published in IEEE Xplore as WACV 2024 Workshop Proceedings and will be indexed separately from the main conference proceedings. The papers submitted to the workshop should follow the same formatting requirements as the main conference. -->
 
-<!-- LLVM-AD accepts both **regular papers (6-8 pages)** and **demo papers (2-4 pages)**. The paper with the highest quality will receive the best paper award. 
 
-**Long Papers**: Manuscripts of upto **8 pages**. Submissions are expected to follow the same guidelines as those for WACV's main conference papers. The best paper elected by the committee will have the opportunity to receive outstanding paper award and **\$300** in recognition of their outstanding contributions.
-
-**Demo papers**: Manuscripts of upto **4 pages**. Demo papers should also include 1 additional page for references, maintaining the same formatting and guidelines. The main objective of these demo papers within the workshop is to foster the exchange of novel concepts and spotlight the practical utility of LLMs in the context of autonomous driving. Accepted demo papers will be included into the workshop proceedings. Authors of the most exceptional demo papers will have chance to be invited to Tencent Map T Lab for an official summer internship. -->
+<!-- Authors of the most exceptional demo papers will have chance to be invited to Tencent Map T Lab for an official summer internship. -->
 
