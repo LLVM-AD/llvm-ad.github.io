@@ -7,19 +7,35 @@ nav: true
 nav_order: 4
 ---
 
-TBD
+<!-- TBD -->
+# LLVM-AD @ ITSC 2025
 
-<!-- **Workshop Date:** March 4, 2025 (MST) \
-**Workshop Location:** AZ Ballroom Salon 12 \
-**Zoom:** [https://purdue-edu.zoom.us/j/96964702241](https://purdue-edu.zoom.us/j/96964702241)
+**Workshop Date:** November, 18th 2025 \
+**Workshop Location:** Surfers Paradise 2 \
+<!-- **Zoom:** [https://purdue-edu.zoom.us/j/96964702241](https://purdue-edu.zoom.us/j/96964702241) -->
 
-**Please find the workshop schedule below (MST):**
+**Please find the tentative workshop schedule below:**
 
 | Time           | Event                                                     |
 |----------------|-----------------------------------------------------------|
-| 13:00 -- 13:10 | Opening Remarks                                           |
-| 13:10 -- 13:40 | **Keynote: Representation Alignment for Autonomous Driving (Dr. Burhan Yaman)**                                                   |
-| 13:40 -- 13:50 | Paper Presentation: Language-Driven Active Learning for Diverse Open-Set 3D Object Detection           |
+| 08:30 -- 09:00 | Paper Presentation 1                                          |
+| 09:00 -- 09:30 | Paper Presentation 2                                          |
+| 09:30 -- 10:00 | Paper Presentation 3                                          |
+| 10:00 -- 10:30 | Tea Break                                                  |
+| 10:30 -- 11:30 | Keynote Presentation 1         |
+| 11:30 -- 12:30 | Keynote Presentation 2         |
+| 12:30 -- 13:30 | Lunch Break        |
+| 13:30 -- 14:30 | Keynote Presentation 3 |
+| 14:30 -- 15:30 | Keynote Presentation 4 |
+| 15:30 -- 16:00 | Tea Break |
+| 16:00 -- 16:30 | Paper Presentation 4 |
+| 16:30 -- 17:00 | Paper Presentation 5 |
+| 17:00 -- 17:30 | Paper Presentation 6 |
+
+
+
+
+<!-- | 13:40 -- 13:50 | Paper Presentation: Language-Driven Active Learning for Diverse Open-Set 3D Object Detection           |
 | 13:50 -- 14:00 | Paper Presentation: Scenario understanding of traffic scenes through Large Visual Language Models           |
 | 14:00 -- 14:10 | Paper Presentation: Enhancing Weakly-Supervised Object Detection on Static Images through (Hallucinated) Motion           |
 | 14:10 -- 14:20 | Paper Presentation: Query3D: LLM-Powered Open-Vocabulary Scene Segmentation with Language Embedded 3D Gaussians           |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Previous Workshops
-permalink: /previous_workshops/
+title: All Workshops
+permalink: /all_workshops/
 subtitle:
 nav: true
 nav_order: 5
@@ -12,6 +12,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-#### WACV 2024: [Link](/WACV_2024/)
-#### ITSC 2024: [Link](/ITSC_2024/)
-#### WACV 2025: [Link](/WACV_2025/)
+#### 1st LLVM-AD @ WACV 2024: [Link](/WACV_2024/)
+#### 2nd LLVM-AD @ ITSC 2024: [Link](/ITSC_2024/)
+#### 3rd LLVM-AD @ WACV 2025: [Link](/WACV_2025/)
+#### 4th LLVM-AD @ ITSC 2025: [Link](/)
+#### 5th LLVM-AD @ WACV 2026: [Link](/WACV_2026/)
