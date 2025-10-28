@@ -12,7 +12,7 @@ nav_order: 2
 
 Our submission generally follows the WACV main conference.
 
-1. **Submission Site**: Papers should be submitted via the OpenReview system. The link will be updated soon.
+1. **Submission Site**: Papers should be submitted via the OpenReview system: https://openreview.net/group?id=thecvf.com/WACV/2026/Workshop/LLVM-AD
 2. **Author Submission Guide**: [WACV 2026 Author Submission Guide](https://wacv.thecvf.com/Conferences/2026/AuthorReviewerGuides)  
 <!-- 3. **Camera Ready Instructions**:  -->
 1. **Workshop Website**: [5th LLVM-AD Workshop at WACV 2026](/WACV_2026)   
