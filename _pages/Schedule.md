@@ -22,8 +22,8 @@ nav_order: 4
 | 09:00 -- 09:30 | **Paper Presentation:** Driving with Regulation: Interpretable Decision-Making for Autonomous Vehicles with Retrieval-Augmented Reasoning via LLM|Yifan Liu|
 | 09:30 -- 10:00 | **Paper Presentation:** VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process|Dr. Alexander Carballo|
 | 10:00 -- 10:30 | Tea Break                                                  |/|
-| 10:30 -- 11:30 | **Keynote Presentation:** LLM-Augmented Reinforcement Learning for Cognitive Decision-Making in Autonomous Driving         |Dr. Lin Li |
-| 11:30 -- 12:30 | **Keynote Presentation:** Cooperative Perception and Foundation Models: Advancing 3D Scene Understanding for Autonomous Driving         |Dr. Walter Zimmer|
+| 10:30 -- 11:15 | **Keynote Presentation:** LLM-Augmented Reinforcement Learning for Cognitive Decision-Making in Autonomous Driving         |Dr. Lin Li |
+| 11:15 -- 12:00 | **Keynote Presentation:** Cooperative Perception and Foundation Models: Advancing 3D Scene Understanding for Autonomous Driving         |Dr. Walter Zimmer|
 | 12:30 -- 13:30 | Lunch Break        |/|
 | 13:30 -- 14:10 | **Keynote Presentation:** LLM4AD: Large Language Models for Autonomous Driving |Dr. Ziran Wang|
 | 14:10 -- 14:50 | **Keynote Presentation:** LLMs As Virtual Traffic Police: Incident-Aware Traffic Signal Control Augmented by Large Language Models  |Dr. Kaidi Yang|
