@@ -24,7 +24,7 @@ nav_order: 4
 | 10:00 -- 10:30 | Tea Break                                                  |/|
 | 10:30 -- 11:15 | **Keynote Presentation:** LLM-Augmented Reinforcement Learning for Cognitive Decision-Making in Autonomous Driving         |Dr. Lin Li |
 | 11:15 -- 12:00 | **Keynote Presentation:** Cooperative Perception and Foundation Models: Advancing 3D Scene Understanding for Autonomous Driving         |Dr. Walter Zimmer|
-| 12:30 -- 13:30 | Lunch Break        |/|
+| 12:00 -- 13:30 | Lunch Break        |/|
 | 13:30 -- 14:10 | **Keynote Presentation:** LLM4AD: Large Language Models for Autonomous Driving |Dr. Ziran Wang|
 | 14:10 -- 14:50 | **Keynote Presentation:** LLMs As Virtual Traffic Police: Incident-Aware Traffic Signal Control Augmented by Large Language Models  |Dr. Kaidi Yang|
 | 14:50 -- 15:30 | **Keynote Presentation:** LLM Reasoning in Transportation | Dr. Xuan Sharon Di|
