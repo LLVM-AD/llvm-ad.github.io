@@ -18,7 +18,6 @@ nav_order: 4
 
 | Time           | Event    |Speaker |
 |----------------|-----------------------------------------------------------|-|
-| 08:30 -- 09:00 | **Paper Presentation:** LLM-Driven Constrained MARL for Collaborative Multi-Vehicle Control in Autonomous Cooperative Transportation Systems  | Dr. Guoqiang Li|
 | 09:00 -- 09:30 | **Paper Presentation:** Driving with Regulation: Interpretable Decision-Making for Autonomous Vehicles with Retrieval-Augmented Reasoning via LLM|Yifan Liu|
 | 09:30 -- 10:00 | **Paper Presentation:** VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process|Hayato Tokida|
 | 10:00 -- 10:30 | Tea Break                                                  |/|
