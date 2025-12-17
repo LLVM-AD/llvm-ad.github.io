@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /call_for_papers/
-title: Call for Papers
+title: Call for Papers @ WACV 2026
 description:
 nav: false
 nav_order: 2
