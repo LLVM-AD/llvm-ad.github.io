@@ -17,7 +17,9 @@ Our submission generally follows the WACV main conference.
 <!-- 3. **Camera Ready Instructions**:  -->
 1. **Workshop Website**: [5th LLVM-AD Workshop at WACV 2026](/WACV_2026)   
 
-LLVM-AD accepts both **regular papers (6-8 pages)** and **demo papers (2-4 pages)**. Submissions are expected to follow the same [guidelines](https://wacv.thecvf.com/Conferences/2026/AuthorReviewerGuides) as those for WACV's main conference papers. All accepted demo papers will be included into the workshop proceedings. 
+LLVM-AD accepts both **regular papers (6-8 pages)** and **demo papers (2-4 pages)**. Submissions are expected to follow the same [guidelines](https://wacv.thecvf.com/Conferences/2026/AuthorReviewerGuides) as those for WACV's main conference papers. 
+
+<!-- All accepted demo papers will be included into the workshop proceedings.  -->
 
 **Regular Papers**: Manuscripts of upto **8 pages**. 
 <!-- The best paper elected by the committee will have the opportunity to receive outstanding paper award and **\$300** in recognition of their outstanding contributions. -->
