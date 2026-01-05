@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /schedule/
+permalink: /schedule_ITSC_2025/
 title: Schedule
 description:
-nav: true
+nav: false
 nav_order: 4
 ---
 
