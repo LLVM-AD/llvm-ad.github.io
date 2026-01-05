@@ -15,5 +15,5 @@ social: false  # includes social icons at the bottom of the page
 #### 1st LLVM-AD @ WACV 2024: [Link](/WACV_2024/)
 #### 2nd LLVM-AD @ ITSC 2024: [Link](/ITSC_2024/)
 #### 3rd LLVM-AD @ WACV 2025: [Link](/WACV_2025/)
-#### 4th LLVM-AD @ ITSC 2025: [Link](/)
+#### 4th LLVM-AD @ ITSC 2025: [Link](/ITSC_2025/)
 #### 5th LLVM-AD @ WACV 2026: [Link](/WACV_2026/)
