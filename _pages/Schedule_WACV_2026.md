@@ -12,9 +12,9 @@ nav_order: 4
 | Time | Schedule |
 | --- | --- |
 | **13:00-13:10** | **Opening Remarks** |
-| **13:10-13:40** | **Keynote Presentation** <br> **Dr. Lars Hammarstrand** |
+| **13:10-13:40** | **Keynote: Learning 3D Worlds Without Labels: Occupancy, Semantics, and Dynamics at Scale** <br> **Dr. Lars Hammarstrand** |
 | **13:40-13:50** | **Paper 5:** *Lightweight Multi-Scale Fusion for Real-Time Autonomous Driving Segmentation* <br> *(Remote)* |
-| **13:50-14:00** | **Paper 7:** *FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder* |
+| **13:50-14:00** | **Paper 7:** *FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder* <br> *(Remote)*|
 | **14:00-14:10** | **Paper 8:** *Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression* <br> *(Remote)* |
 | **14:10-14:20** | **Paper 10:** *Benchmarking Vision-Language Models for Traffic Scene Understanding in Inclement Winter Weather: The AWDB Benchmark* |
 | **14:20-14:30** | **Paper 11:** *Role of Language-Guidance in Knowledge Distillation for Semantic Segmentation Under Limited Field-Of-View Autonomous Driving* |
