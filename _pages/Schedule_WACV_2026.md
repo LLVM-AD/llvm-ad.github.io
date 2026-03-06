@@ -18,7 +18,7 @@ nav_order: 4
 | **14:00-14:10** | **Paper 8:** *Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression* <br> *(Remote)* |
 | **14:10-14:20** | **Paper 10:** *Benchmarking Vision-Language Models for Traffic Scene Understanding in Inclement Winter Weather: The AWDB Benchmark* |
 | **14:20-14:30** | **Paper 11:** *Role of Language-Guidance in Knowledge Distillation for Semantic Segmentation Under Limited Field-Of-View Autonomous Driving* |
-| **14:30-15:00** | **Keynote: Teaching Trackers to Think: From Appearance Matching to Agentic Perception** <br> **Tong Shen** |
+| **14:30-15:00** | **Keynote: Teaching Trackers to Think: From Appearance Matching to Agentic Perception** <br> **Tong Shen** <br> *(Remote)*|
 | **15:00-15:20** | **Coffee Break** |
 | **15:20-15:30** | **Paper 12:** *Less Is More: Agentic Prompt Design for Safe VLM Action Selection* <br> *(Remote)* |
 | **15:30-15:40** | **Paper 13:** *Trust-Guided Multimodal LLM Integration with Reinforcement Learning for Autonomous Driving* <br> *(Remote)* |
