@@ -16,7 +16,7 @@ The LLVM-AD workshop series aims to bring together professionals from academia a
 
 This repository contains information and pages for the following workshop editions:
 
-*   **[WACV 2026](https://llvm-ad.github.io/WACV_2026/)** (Upcoming)
+*   **[WACV 2026](https://llvm-ad.github.io/WACV_2026/)**
 *   **[ITSC 2025](https://llvm-ad.github.io/ITSC_2025/)**
 *   **[WACV 2025](https://llvm-ad.github.io/WACV_2025/)**
 *   **[ITSC 2024](https://llvm-ad.github.io/ITSC_2024/)**
